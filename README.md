@@ -3,9 +3,9 @@
 Este proyecto automatiza la obtención y el análisis nutricional de los menús de los Comedores Universitarios de la Universidad de Granada (UGR).
 
 ## 🚀 Características
-- **SCRAPER MULTISEDE**: Obtiene el menú de todas las sedes (Fuentenueva, Cartuja, Aynadamar y PTS).
-- **Análisis Nutricional Inteligente**: Conexión con la API de Edamam para obtener kcal, proteínas, grasas e hidratos.
-- **Inyector de Estado**: Ajuste automático de valores para alimentos que cambian de peso al cocinarse (arroz, pasta, legumbres).
+- **SCRAPER MULTISEDE**: Obtiene el menú de todas las sedes de los comedores universitarios (Fuentenueva/Cartuja/Aynadamar y PTS).
+- **Análisis Nutricional Inteligente**: Conexión con la API de Edamam para obtener kcal, proteínas, grasas e hidratos (en un aproximado del plato como conjunto).
+- **Inyector de Estado**: Ajuste automático de valores para alimentos que cambian de peso al cocinarse (arroz, pasta, legumbres...).
 - **Caché Local**: Evita peticiones innecesarias a la API, respetando los límites de uso.
 - **Sistema de Excepciones**: Diccionario personalizado para platos locales complejos (Fogonero, Ensaladilla Rusa, etc.).
 
