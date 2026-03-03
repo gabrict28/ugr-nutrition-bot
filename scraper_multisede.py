@@ -3,9 +3,51 @@
 import json
 import requests
 from bs4 import BeautifulSoup
+from datetime import datetime
+
+#Función para convertir las fechas de la web "MARTES, 1 DE ABRIL  DE  2026"
+#a formato útil "01-04-2026"
+def normalizar_fecha_scu(fecha_bruto):
+    meses = {
+        "ENERO": 1, "FEBRERO": 2, "MARZO": 3, "ABRIL": 4, "MAYO": 5, "JUNIO": 6,
+        "JULIO": 7, "AGOSTO": 8, "SEPTIEMBRE": 9, "OCTUBRE": 10, "NOVIEMBRE": 11, "DICIEMBRE": 12
+    }
+
+    try:
+        partes=fecha_bruto.upper().split()
+
+        if len(partes) < 6:
+            return None
+        
+        d = int(partes[1])
+        m = meses[partes[3]]
+        y = int(partes[5])
+
+        fecha = datetime(y,m,d)
+
+        return fecha.strftime("%Y-%m-%d")
+    except Exception as e:
+        return None
 
 #Vamos a organizar en sedes (Fuentenueva/Cartuja/Aynadamar o PTS) y en semanas
 url = "https://scu.ugr.es/"
+
+#La estructura que tendremos en el json producto será:
+#{
+#  "Sede (ej: Fuentenueva)": {
+#     "Fecha (ej: MARTES, 1 DE ABRIL)": [
+#      {
+#        "nombre": "Arroz con bogavante",
+#        "nutricion": { "kcal": 130.0, "proteinas": 2.7, ... }
+#      },
+#      {
+#        "nombre": "Mortadela con llaves",
+#        "nutricion": { ... }
+#      }
+#    ]
+#  },
+#  "Sede (ej: PTS)": { ... }
+#}
 
 try:
     respuesta = requests.get(url)
@@ -50,12 +92,13 @@ try:
                 #Si es un encabezado de fecha, la gestionamos
                 th_fecha = fila.find('th')
                 if th_fecha:
+                    fecha_norm = normalizar_fecha_scu(th_fecha.get_text(strip=True))
                     #Guardamos los platos acumulados de un día anterior
                     if fecha_actual and menu_dia:
                         info_completa[sede_actual][fecha_actual] = menu_dia
 
                     #Actualizamos la fecha y reseteamos el menú
-                    fecha_actual = th_fecha.get_text(strip=True)
+                    fecha_actual = fecha_norm
                     menu_dia = []
                     seccion = "Menú estándar"
                     continue
