@@ -21,7 +21,17 @@ def resumen_telegram(fichero_json):
     #Queremos que el bot de telegram imprima el menú a diario, por lo que 
     #trabajaremos sólo si el día es el que toca.
     dia_actual = date.today().isoformat()
-    fecha_norm = date.today().strftime("%d-%m-%Y")
+
+    dias_semana = ["lunes", "martes", "miércoles", "jueves", "viernes", "sábado", "Domingo"]
+    meses = ["enero", "febrero", "marzo", "abril", "mayo", "junio", 
+             "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
+    
+    hoy = date.today()
+    nombre_dia = dias_semana[hoy.weekday()]
+    nombre_mes = meses[hoy.month - 1]
+    
+    # Formato: Martes, 3 de marzo de 2026
+    fecha_norm = f"{nombre_dia}, {hoy.day} de {nombre_mes} de {hoy.year}"
 
     mensaje= f"Hoy, *{fecha_norm}*, en los comedores universitarios se servirá:\n"
     hay_datos = False
@@ -29,7 +39,7 @@ def resumen_telegram(fichero_json):
     for sede, fechas in info.items():
         if dia_actual in fechas:
             hay_datos = True
-            mensaje += f"\n _*{sede.upper()}*_"
+            mensaje += f"\n *{sede.upper()}*"
 
             #Separamos los menús:
             menus_separados={}
