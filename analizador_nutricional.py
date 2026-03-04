@@ -1,7 +1,14 @@
-#GABRIEL COBO TRAVÉ 2026
-#Es importante notar que los de la API son un pelín sionistas y la única manera de poder
-#usarla sin pagar es mediante un plan que permite sólo 5 consultas por minuto, luego obligaremos
-#al programa a esperar 12 segundos entre consulta y consulta (60/5=12).
+"""
+Proyecto: Bot informativo del aporte nutricional de los menús del SCU.
+GABRIEL COBO TRAVÉ - 2026 
+Script: analizador_nutricional.py
+Peticiones a la API para el reporte nutricional de cada plato del menú
+
+Es importante notar que los de la API son un pelín sionistas y la única manera de poder
+usarla sin pagar es mediante un plan que permite sólo 5 consultas por minuto, luego obligaremos
+al programa a esperar 12 segundos entre consulta y consulta (60/5=12).
+"""
+
 
 import json
 import requests

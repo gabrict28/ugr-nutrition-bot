@@ -1,3 +1,10 @@
+"""
+Proyecto: Bot informativo del aporte nutricional de los menús del SCU.
+GABRIEL COBO TRAVÉ - 2026 
+Script: macros_tgbot.py
+Análisis completo de los macros para el mensaje del bot
+"""
+
 import json
 from datetime import date
 from datetime import datetime

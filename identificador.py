@@ -1,3 +1,11 @@
+"""
+Proyecto: Bot informativo del aporte nutricional de los menús del SCU.
+GABRIEL COBO TRAVÉ - 2026 
+Script: identificador.py
+Script cuya única utilidad era encontrar el id de usuario para configurar 
+Telegram
+"""
+
 import os
 import asyncio
 from telegram import Bot

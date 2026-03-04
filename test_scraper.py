@@ -1,4 +1,9 @@
-#GABRIEL COBO TRAVÉ 2026
+"""
+Proyecto: Bot informativo del aporte nutricional de los menús del SCU.
+GABRIEL COBO TRAVÉ - 2026 
+Script: identificador.py
+Pruebas iniciales del scrapping
+"""
 
 import json
 import requests

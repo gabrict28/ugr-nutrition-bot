@@ -1,4 +1,25 @@
-#GABRIEL COBO TRAVÉ 2026
+"""
+Proyecto: Bot informativo del aporte nutricional de los menús del SCU.
+GABRIEL COBO TRAVÉ - 2026 
+Script: scraper_multisede.py
+Scrapping de la web de los SCU para obtener el menú semanal en un json
+con formato:
+{}
+  "Sede (ej: Fuentenueva...)": {
+     "Fecha (ej: 01-04-2026)": [
+      {
+        "nombre": "Arroz con bogavante",
+        "nutricion": { "kcal": 130.0, "proteinas": 2.7, ... }
+      },
+      {
+        "nombre": "Mortadela con llaves",
+        "nutricion": { ... }
+      }
+    ]
+  },
+  "Sede (ej: PTS)": { ... }
+}
+"""
 
 import json
 import requests
@@ -32,22 +53,7 @@ def normalizar_fecha_scu(fecha_bruto):
 #Vamos a organizar en sedes (Fuentenueva/Cartuja/Aynadamar o PTS) y en semanas
 url = "https://scu.ugr.es/"
 
-#La estructura que tendremos en el json producto será:
-#{
-#  "Sede (ej: Fuentenueva)": {
-#     "Fecha (ej: MARTES, 1 DE ABRIL)": [
-#      {
-#        "nombre": "Arroz con bogavante",
-#        "nutricion": { "kcal": 130.0, "proteinas": 2.7, ... }
-#      },
-#      {
-#        "nombre": "Mortadela con llaves",
-#        "nutricion": { ... }
-#      }
-#    ]
-#  },
-#  "Sede (ej: PTS)": { ... }
-#}
+
 
 try:
     respuesta = requests.get(url)

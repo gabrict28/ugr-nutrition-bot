@@ -1,6 +1,10 @@
-#GABRIEL COBO TRAVÉ 2026
-#Script que calcula un resumen de las macros totales por menú, sobre todo
-#sirve como base para el "macros_tgbot.py"
+"""
+Proyecto: Bot informativo del aporte nutricional de los menús del SCU.
+GABRIEL COBO TRAVÉ - 2026 
+Script: calculadora_macros_menu.py
+Base del "macros_tgbot.py"
+"""
+
 import json
 
 INPUT_NUTRI_MENU="info_nutricional_menu.json"

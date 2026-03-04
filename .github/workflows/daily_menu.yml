@@ -3,17 +3,15 @@ name: Difusion Menu UGR
 on:
   schedule:
     #Se ejecuta a las 08:00 UTC (las 9:00 en España)
-    #los domingos (0)
-    - cron: '0 8 * * 0'
-    #de lunes a sábado (1-6)
-    - cron: '0 8 * * 1-6'
-  workflow_dispatch:
+    - cron: '0 8 * * 0'    #Domingos
+    - cron: '0 8 * * 1-6'  #Lunes a sábado
+  workflow_dispatch:  
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write #para que el bot pueda actualizar los json
+      contents: write
 
     steps:
     - name: Descargar codigo del repositorio
@@ -29,7 +27,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    #Los domingos hacemos el scrapping de la web del SCU
+    # Se ejecuta: El domingo O si le damos al botón a mano
     - name: Scrapping y análisis nutricional
       if: github.event.schedule == '0 8 * * 0' || github.event_name == 'workflow_dispatch'
       env:
@@ -39,6 +37,7 @@ jobs:
         python scraper_multisede.py
         python analizador_nutricional.py
 
+    # Se ejecuta: El domingo o si lo ejecutamos a mano
     - name: Actualizar los datos obtenidos
       if: github.event.schedule == '0 8 * * 0' || github.event_name == 'workflow_dispatch'
       run: |
@@ -48,9 +47,9 @@ jobs:
         git commit -m "Actualización semanal del menú y la caché [skip ci]" || echo "SIN CAMBIOS"
         git push
       
-    #El resto de la semana difundimos por el canal de TG
+    # Se ejecuta: De Lunes a Sábado o si lo ejecutamos a mano
     - name: Enviar mensaje al canal de telegram
-      if: github.event.schedule == '0 8 * * 1-6'
+      if: github.event.schedule == '0 8 * * 1-6' || github.event_name == 'workflow_dispatch'
       env:
         TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
         TELEGRAM_ID: ${{ secrets.TELEGRAM_ID }}
