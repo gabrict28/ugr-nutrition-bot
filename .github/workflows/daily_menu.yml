@@ -2,19 +2,22 @@ name: Difusion Menu UGR
 
 on:
   schedule:
-    #Se ejecuta a las 09:00 UTC (las 10:00 en España)
-    # El formato cron es: Minuto Hora Día Mes Día_Semana
-    #1-6 significa de lunes a sábado
-    - cron: '0 9 * * 1-6'
+    #Se ejecuta a las 08:00 UTC (las 9:00 en España)
+    #los domingos (0)
+    - cron: '0 8 * * 0'
+    #de lunes a sábado (1-6)
+    - cron: '0 8 * * 1-6'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write #para que el bot pueda actualizar los json
 
     steps:
-    - name: Descargar codigo del repo
-      uses: actions/checkout@v3
+    - name: Descargar codigo del repositorio
+      uses: actions/checkout@v4
 
     - name: Configurar Python
       uses: actions/setup-python@v4
@@ -26,17 +29,29 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Ejecutar Scraper
-      run: python scraper_multisede.py
-
-    - name: Ejecutar Analizador Nutricional
-      run: python analizador_nutricional.py
+    #Los domingos hacemos el scrapping de la web del SCU
+    - name: Scrapping y análisis nutricional
+      if: github.event.schedule == '0 8 * * 0' || github.event.name == 'workflow_dispatch'
       env:
         BD_APP_ID: ${{ secrets.BD_APP_ID }}
         BD_APP_KEY: ${{ secrets.BD_APP_KEY }}
+      run: |
+        python scraper_multisede.py
+        python analizador_nutricional.py
 
+    - name: Actualizar los datos obtenidos
+      if: github.event.schedule == '0 8 * * 0' || github.event.name == 'workflow_dispatch'
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add .
+        git commit -m "Actualización semanal del menú y la caché [skip ci]" || echo "SIN CAMBIOS"
+        git push
+      
+    #El resto de la semana difundimos por el canal de TG
     - name: Enviar mensaje al canal de telegram
-      run: python granadito_bot.py
+      if: github.event.schedule == '0 8 * * 1-6'
       env:
         TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
         TELEGRAM_ID: ${{ secrets.TELEGRAM_ID }}
+      run: python granadito_bot.py
