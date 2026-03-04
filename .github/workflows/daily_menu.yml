@@ -31,7 +31,7 @@ jobs:
 
     #Los domingos hacemos el scrapping de la web del SCU
     - name: Scrapping y análisis nutricional
-      if: github.event.schedule == '0 8 * * 0' || github.event.name == 'workflow_dispatch'
+      if: github.event.schedule == '0 8 * * 0' || github.event_name == 'workflow_dispatch'
       env:
         BD_APP_ID: ${{ secrets.BD_APP_ID }}
         BD_APP_KEY: ${{ secrets.BD_APP_KEY }}
@@ -40,7 +40,7 @@ jobs:
         python analizador_nutricional.py
 
     - name: Actualizar los datos obtenidos
-      if: github.event.schedule == '0 8 * * 0' || github.event.name == 'workflow_dispatch'
+      if: github.event.schedule == '0 8 * * 0' || github.event_name == 'workflow_dispatch'
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
