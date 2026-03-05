@@ -3,12 +3,6 @@ venv/
 .venv/
 env/
 
-#Datos y caché (locales)
-nutricion_cache.json
-info_nutri_menu.json
-menu_ugr.json
-info_nutricional_menu.json
-
 #Contraseñas
 .env
 
