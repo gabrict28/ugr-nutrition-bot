@@ -31,8 +31,7 @@ jobs:
     - name: Scrapping y análisis nutricional
       if: github.event.schedule == '0 8 * * 0' || github.event_name == 'workflow_dispatch'
       env:
-        BD_APP_ID: ${{ secrets.BD_APP_ID }}
-        BD_APP_KEY: ${{ secrets.BD_APP_KEY }}
+        GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
       run: |
         python scraper_multisede.py
         python analizador_nutricional.py

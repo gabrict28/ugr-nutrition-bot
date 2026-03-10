@@ -989,10 +989,10 @@
                 "nombre": "Marmitako",
                 "alergenos": "Pescado  Sulfitos",
                 "nutricion": {
-                    "kcal": 81.6,
-                    "proteinas": 7.1,
-                    "grasas": 2.3,
-                    "carbohidratos": 7.9
+                    "kcal": 112.4,
+                    "proteinas": 11.1,
+                    "grasas": 3.0,
+                    "carbohidratos": 8.98
                 }
             },
             {
@@ -1001,10 +1001,10 @@
                 "nombre": "Bacalao gratinado con alioli sobre tomate confitado",
                 "alergenos": "Lácteos  Pescado",
                 "nutricion": {
-                    "kcal": 18.0,
-                    "proteinas": 0.9,
-                    "grasas": 0.2,
-                    "carbohidratos": 3.9
+                    "kcal": 325.0,
+                    "proteinas": 16.3,
+                    "grasas": 25.0,
+                    "carbohidratos": 5.0
                 }
             },
             {
@@ -1037,10 +1037,10 @@
                 "nombre": "Guisado de Campo",
                 "alergenos": "Frutos de cáscara (almendras)",
                 "nutricion": {
-                    "kcal": 95.7,
-                    "proteinas": 6.2,
-                    "grasas": 4.2,
-                    "carbohidratos": 8.0
+                    "kcal": 132.0,
+                    "proteinas": 7.8,
+                    "grasas": 7.2,
+                    "carbohidratos": 16.5
                 }
             },
             {
@@ -1049,10 +1049,10 @@
                 "nombre": "Salchichas Vegetales Gratinadas Sobre Tomate Confitado",
                 "alergenos": "Lácteos  Soja  Sulfitos",
                 "nutricion": {
-                    "kcal": 72.0,
-                    "proteinas": 3.3,
-                    "grasas": 0.5,
-                    "carbohidratos": 13.5
+                    "kcal": 238.0,
+                    "proteinas": 11.5,
+                    "grasas": 16.2,
+                    "carbohidratos": 11.5
                 }
             },
             {
