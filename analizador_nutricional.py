@@ -65,3 +65,29 @@ cache = {}
 if  os.path.exists(CACHE):
         with open(CACHE, 'r', encoding='utf-8') as cache_f:
             cache = json.load(cache_f)
+
+for sede, dias in datos_menu.items():
+    for fecha, platos in dias.items():
+        for plato in platos:
+            nombre = plato['nombre']
+
+            #Comprobamos si ese plato ya ha sido analizado y se encuentra en la caché
+            if nombre in cache:
+                plato['nutricion'] = cache[nombre]
+            else:
+                #Si no está en caché, le preguntamos al sabio
+                info = analisis_ia(nombre)
+                if info:
+                    plato['nutricion'] = info
+                    cache[nombre] = info
+                    time.sleep(4.5) #La cuota de Gemini Flash es de 15 solicitudes por minuto
+                else:
+                    print("❌No ha podido ser analizado❌")  
+
+#Guardamos los resultados en el JSON correspondiente
+with open(OUTPUT_NUTRI, 'w', encoding='utf-8') as nutrifacts:
+    json.dump(datos_menu, nutrifacts, ensure_ascii=False, indent=4)
+
+#Actualizamos la caché
+with open(CACHE, 'w', encoding='utf-8') as cache_actualizada:
+    json.dump(cache, cache_actualizada, ensure_ascii=False, indent=4)
