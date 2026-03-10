@@ -19,9 +19,7 @@ OUTPUT_NUTRI = "info_nutricional_menu.json"
 CACHE = "nutricion_cache.json"
 
 #Configuramos el cliente Gemini
-client = genai.Client(
-    api_key=os.getenv("GOOGLE_API_KEY"),
-    http_options={'api_version': 'v1'})
+client = genai.Client(api_key=os.getenv("GOOGLE_API_KEY"))
 
 def analisis_ia(nom_plato):
     
@@ -30,30 +28,22 @@ def analisis_ia(nom_plato):
     Actúa como un nutricionista experto en gastronomía española. 
     Analiza una ración estándar del Servicio de Comedores de la Universidad de Granada (España) para el plato: {nom_plato}.
     Ten en cuenta si el alimento se sirve cocinado (arroz, pasta, legumbres, patata) y contrasta la información que encuentres
-    para dar la mejor aproximación de la información nutricional
+    para dar la mejor aproximación de la información nutricional.
+    Devuelve estrictamente un objeto JSON con estas claves: 
+    "kcal" (int), "proteinas" (float), "grasas" (float), "carbohidratos" (float).
     """
     #Configuramos la respuesta para que case con nuestro JSON
     config = types.GenerateContentConfig(
         response_mime_type='application/json',
-        response_schema={
-            'type': 'OBJECT',
-            'properties': {
-                'kcal': {'type': 'INTEGER'},
-                'proteinas': {'type': 'NUMBER'},
-                'grasas': {'type': 'NUMBER'},
-                'carbohidratos': {'type': 'NUMBER'},
-            },
-            'required': ['kcal', 'proteinas', 'grasas', 'carbohidratos']
-        }
     )
 
     try:
         response = client.models.generate_content(
-            model='gemini-1.5-flash', #si en un futuro fuera necesario, podemos definir model='gemini-1.5-pro'
+            model='gemini-2.0-flash', #si en un futuro fuera necesario, podemos definirlo como pro
             contents=prompt,
             config=config
         )
-        return response.parsed # Devuelve directamente el diccionario
+        return json.loads(response.text) #Convertimos el texto a diccionario
     except Exception as e:
         print(f"❌ Error con Gemini en {nom_plato}: {e}")
         return None
