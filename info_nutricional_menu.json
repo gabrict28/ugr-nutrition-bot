@@ -1,409 +1,5 @@
 {
     "Fuentenueva/Cartuja/Aynadamar": {
-        "2026-03-02": [
-            {
-                "menu": "Menú estándar",
-                "categoria": "Primero",
-                "nombre": "Macarrones a la napolitana",
-                "alergenos": "Gluten  Huevos  Lácteos",
-                "nutricion": {
-                    "kcal": 158.0,
-                    "proteinas": 5.8,
-                    "grasas": 0.9,
-                    "carbohidratos": 30.9
-                }
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Segundo",
-                "nombre": "Pechuga frita al estilo sureño",
-                "alergenos": "Frutos de cáscara  Gluten  Huevos  Lácteos  Mostaza  Soja",
-                "nutricion": {
-                    "kcal": 303.0,
-                    "proteinas": 21.9,
-                    "grasas": 18.1,
-                    "carbohidratos": 12.0
-                }
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Acompañamiento",
-                "nombre": "Ensalada Mixta",
-                "alergenos": "Soja  Sulfitos",
-                "nutricion": {
-                    "kcal": 15.0,
-                    "proteinas": 1.4,
-                    "grasas": 0.1,
-                    "carbohidratos": 2.9
-                }
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Postre",
-                "nombre": "Mandarinas",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 53.0,
-                    "proteinas": 0.8,
-                    "grasas": 0.3,
-                    "carbohidratos": 13.3
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Primero",
-                "nombre": "Macarrones a la Napolitana",
-                "alergenos": "Gluten  Huevos  Lácteos  Soja  Sulfitos",
-                "nutricion": {
-                    "kcal": 158.0,
-                    "proteinas": 5.8,
-                    "grasas": 0.9,
-                    "carbohidratos": 30.9
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Segundo",
-                "nombre": "Escalopines de seitán a la Milanesa",
-                "alergenos": "Gluten  Huevos  Lácteos",
-                "nutricion": {
-                    "kcal": 133.0,
-                    "proteinas": 23.2,
-                    "grasas": 2.2,
-                    "carbohidratos": 4.4
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Acompañamiento",
-                "nombre": "Ensalada Mixta",
-                "alergenos": "Soja  Sulfitos",
-                "nutricion": {
-                    "kcal": 15.0,
-                    "proteinas": 1.4,
-                    "grasas": 0.1,
-                    "carbohidratos": 2.9
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Postre",
-                "nombre": "Mandarinas",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 53.0,
-                    "proteinas": 0.8,
-                    "grasas": 0.3,
-                    "carbohidratos": 13.3
-                }
-            }
-        ],
-        "2026-03-03": [
-            {
-                "menu": "Menú estándar",
-                "categoria": "Entrante",
-                "nombre": "Pastel Cordobés 2",
-                "alergenos": "Frutos de cáscara*  Gluten  Huevos  Lácteos  Soja",
-                "nutricion": {
-                    "kcal": 343.0,
-                    "proteinas": 4.7,
-                    "grasas": 16.8,
-                    "carbohidratos": 44.8
-                }
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Primero",
-                "nombre": "Cocido",
-                "alergenos": "Sulfitos",
-                "nutricion": {
-                    "kcal": 378.0,
-                    "proteinas": 20.5,
-                    "grasas": 6.0,
-                    "carbohidratos": 63.0
-                }
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Segundo",
-                "nombre": "Perca A La Marinera",
-                "alergenos": "Crustáceos  Gluten  Moluscos  Pescado  Sulfitos",
-                "nutricion": {
-                    "kcal": 91.0,
-                    "proteinas": 19.4,
-                    "grasas": 0.9,
-                    "carbohidratos": 0.0
-                }
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Postre",
-                "nombre": "Pera",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 57.0,
-                    "proteinas": 0.4,
-                    "grasas": 0.1,
-                    "carbohidratos": 15.2
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Primero",
-                "nombre": "Cocido vegetariano",
-                "alergenos": "Apio  Sulfitos",
-                "nutricion": {
-                    "kcal": 64.0,
-                    "proteinas": 2.4,
-                    "grasas": 1.7,
-                    "carbohidratos": 10.3
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Segundo",
-                "nombre": "Tofu a la Riojana",
-                "alergenos": "Gluten  Soja",
-                "nutricion": {
-                    "kcal": 78.0,
-                    "proteinas": 9.0,
-                    "grasas": 4.2,
-                    "carbohidratos": 2.9
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Postre",
-                "nombre": "Pera",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 57.0,
-                    "proteinas": 0.4,
-                    "grasas": 0.1,
-                    "carbohidratos": 15.2
-                }
-            }
-        ],
-        "2026-03-04": [
-            {
-                "menu": "Menú estándar",
-                "categoria": "Cremas y sopas",
-                "nombre": "Crema de calabaza con queso",
-                "alergenos": "Apio  Lácteos",
-                "nutricion": {
-                    "kcal": 403.0,
-                    "proteinas": 22.9,
-                    "grasas": 33.3,
-                    "carbohidratos": 3.4
-                }
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Primero",
-                "nombre": "Huevos Rotos Con Fritada De Setas Y Champiñones",
-                "alergenos": "Frutos de cáscara (almendras)  Huevos  Sulfitos",
-                "nutricion": {
-                    "kcal": 22.0,
-                    "proteinas": 3.1,
-                    "grasas": 0.3,
-                    "carbohidratos": 3.3
-                }
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Segundo",
-                "nombre": "Jamón asado en salsa de strogonoff",
-                "alergenos": "Apio  Lácteos  Mostaza  Sulfitos",
-                "nutricion": {
-                    "kcal": 164.0,
-                    "proteinas": 16.6,
-                    "grasas": 8.8,
-                    "carbohidratos": 3.6
-                }
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Acompañamiento",
-                "nombre": "Judías y zanahorias",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 333.0,
-                    "proteinas": 23.4,
-                    "grasas": 0.8,
-                    "carbohidratos": 60.3
-                }
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Postre",
-                "nombre": "Manzana",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 52.0,
-                    "proteinas": 0.3,
-                    "grasas": 0.2,
-                    "carbohidratos": 13.8
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Cremas y sopas",
-                "nombre": "Crema de calabaza con queso",
-                "alergenos": "Apio  Lácteos",
-                "nutricion": {
-                    "kcal": 403.0,
-                    "proteinas": 22.9,
-                    "grasas": 33.3,
-                    "carbohidratos": 3.4
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Primero",
-                "nombre": "Huevos Rotos Con Fritada De Setas Y Champiñones",
-                "alergenos": "Frutos de cáscara (almendras)  Huevos  Sulfitos",
-                "nutricion": {
-                    "kcal": 22.0,
-                    "proteinas": 3.1,
-                    "grasas": 0.3,
-                    "carbohidratos": 3.3
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Segundo",
-                "nombre": "Hamburguesa De Alubías Rojas",
-                "alergenos": "Frutos de cáscara (pipas de girasol)  Gluten  Huevos  Sésamo",
-                "nutricion": {
-                    "kcal": 333.0,
-                    "proteinas": 23.6,
-                    "grasas": 0.8,
-                    "carbohidratos": 60.0
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Acompañamiento",
-                "nombre": "Judías y zanahorias",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 333.0,
-                    "proteinas": 23.4,
-                    "grasas": 0.8,
-                    "carbohidratos": 60.3
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Postre",
-                "nombre": "Manzana",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 52.0,
-                    "proteinas": 0.3,
-                    "grasas": 0.2,
-                    "carbohidratos": 13.8
-                }
-            }
-        ],
-        "2026-03-05": [
-            {
-                "menu": "Menú estándar",
-                "categoria": "Primero",
-                "nombre": "Empedrado de Lentejas Vegetariano",
-                "alergenos": "Frutos de cáscara  Gluten  Sulfitos",
-                "nutricion": {
-                    "kcal": 352.0,
-                    "proteinas": 24.6,
-                    "grasas": 1.1,
-                    "carbohidratos": 63.4
-                }
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Segundo",
-                "nombre": "Escalope de ternera",
-                "alergenos": "Gluten  Huevos  Lácteos",
-                "nutricion": {
-                    "kcal": 130.0,
-                    "proteinas": 21.6,
-                    "grasas": 4.8,
-                    "carbohidratos": 0.1
-                }
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Acompañamiento",
-                "nombre": "Patatas bastón",
-                "alergenos": "Sulfitos",
-                "nutricion": {
-                    "kcal": 77.0,
-                    "proteinas": 2.0,
-                    "grasas": 0.1,
-                    "carbohidratos": 17.5
-                }
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Postre",
-                "nombre": "Natillas con buñuelos de chocolate",
-                "alergenos": "Gluten  Huevos  Lácteos  Sulfitos",
-                "nutricion": {
-                    "kcal": 104.0,
-                    "proteinas": 5.0,
-                    "grasas": 4.6,
-                    "carbohidratos": 11.0
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Primero",
-                "nombre": "Empedrado de Lentejas Vegetariano",
-                "alergenos": "Frutos de cáscara  Gluten  Sulfitos",
-                "nutricion": {
-                    "kcal": 352.0,
-                    "proteinas": 24.6,
-                    "grasas": 1.1,
-                    "carbohidratos": 63.4
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Segundo",
-                "nombre": "San Jacobo De Calabacín",
-                "alergenos": "Gluten  Huevos  Lácteos  Soja",
-                "nutricion": {
-                    "kcal": 17.0,
-                    "proteinas": 1.2,
-                    "grasas": 0.3,
-                    "carbohidratos": 3.1
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Acompañamiento",
-                "nombre": "Patatas bastón",
-                "alergenos": "Sulfitos",
-                "nutricion": {
-                    "kcal": 77.0,
-                    "proteinas": 2.0,
-                    "grasas": 0.1,
-                    "carbohidratos": 17.5
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Postre",
-                "nombre": "Natillas con buñuelos de chocolate",
-                "alergenos": "Gluten  Huevos  Lácteos  Sulfitos",
-                "nutricion": {
-                    "kcal": 104.0,
-                    "proteinas": 5.0,
-                    "grasas": 4.6,
-                    "carbohidratos": 11.0
-                }
-            }
-        ],
         "2026-03-06": [
             {
                 "menu": "Menú estándar",
@@ -575,15 +171,13 @@
                     "carbohidratos": 22.0
                 }
             }
-        ]
-    },
-    "PTS": {
-        "2026-03-02": [
+        ],
+        "2026-03-09": [
             {
                 "menu": "Menú estándar",
                 "categoria": "Primero",
-                "nombre": "Macarrones a la Napolitana",
-                "alergenos": "Huevos  Lácteos  Sulfitos",
+                "nombre": "Espaguetis En Salsa Aurora",
+                "alergenos": "Frutos de cáscara (Nuez)  Gluten  Huevos  Lácteos  Soja",
                 "nutricion": {
                     "kcal": 158.0,
                     "proteinas": 5.8,
@@ -594,25 +188,25 @@
             {
                 "menu": "Menú estándar",
                 "categoria": "Segundo",
-                "nombre": "Pechuga Frita Al Estilo Sureño",
-                "alergenos": "Frutos de cáscara  Lácteos  Mostaza  Soja",
+                "nombre": "Lomo Braseado",
+                "alergenos": "Apio  Sulfitos",
                 "nutricion": {
-                    "kcal": 303.0,
-                    "proteinas": 21.9,
-                    "grasas": 18.1,
-                    "carbohidratos": 12.0
+                    "kcal": 146.2,
+                    "proteinas": 13.0,
+                    "grasas": 8.7,
+                    "carbohidratos": 3.3
                 }
             },
             {
                 "menu": "Menú estándar",
                 "categoria": "Acompañamiento",
-                "nombre": "Ensalada Mixta",
-                "alergenos": "Soja  Sulfitos",
+                "nombre": "Menestra 24 bis",
+                "alergenos": "",
                 "nutricion": {
-                    "kcal": 15.0,
-                    "proteinas": 1.4,
-                    "grasas": 0.1,
-                    "carbohidratos": 2.9
+                    "kcal": 84.7,
+                    "proteinas": 4.2,
+                    "grasas": 4.7,
+                    "carbohidratos": 6.4
                 }
             },
             {
@@ -630,8 +224,8 @@
             {
                 "menu": "Menú ovolactovegetariano",
                 "categoria": "Primero",
-                "nombre": "Macarrones a la Napolitana vegetarianos",
-                "alergenos": "Huevos  Lácteos  Pescado  Sulfitos",
+                "nombre": "Espaguetis Con Boronía (vegetariano)",
+                "alergenos": "Apio  Gluten  Huevos  Sulfitos",
                 "nutricion": {
                     "kcal": 158.0,
                     "proteinas": 5.8,
@@ -642,25 +236,25 @@
             {
                 "menu": "Menú ovolactovegetariano",
                 "categoria": "Segundo",
-                "nombre": "Cachopo de berenjenas",
-                "alergenos": "Huevos  Lácteos  Sulfitos",
+                "nombre": "Strudel de verduras con salsa de yogur",
+                "alergenos": "Gluten  Huevos  Lácteos",
                 "nutricion": {
-                    "kcal": 25.0,
-                    "proteinas": 1.0,
-                    "grasas": 0.2,
-                    "carbohidratos": 5.9
+                    "kcal": 72.0,
+                    "proteinas": 3.3,
+                    "grasas": 0.5,
+                    "carbohidratos": 13.5
                 }
             },
             {
                 "menu": "Menú ovolactovegetariano",
                 "categoria": "Acompañamiento",
-                "nombre": "Ensalada Mixta",
-                "alergenos": "Soja  Sulfitos",
+                "nombre": "Menestra 24 bis",
+                "alergenos": "",
                 "nutricion": {
-                    "kcal": 15.0,
-                    "proteinas": 1.4,
-                    "grasas": 0.1,
-                    "carbohidratos": 2.9
+                    "kcal": 84.7,
+                    "proteinas": 4.2,
+                    "grasas": 4.7,
+                    "carbohidratos": 6.4
                 }
             },
             {
@@ -676,41 +270,41 @@
                 }
             }
         ],
-        "2026-03-03": [
+        "2026-03-10": [
             {
                 "menu": "Menú estándar",
                 "categoria": "Primero",
-                "nombre": "Cocido",
-                "alergenos": "Sulfitos",
+                "nombre": "Puchero De Hinojos",
+                "alergenos": "",
                 "nutricion": {
-                    "kcal": 378.0,
-                    "proteinas": 20.5,
-                    "grasas": 6.0,
-                    "carbohidratos": 63.0
+                    "kcal": 31.0,
+                    "proteinas": 1.2,
+                    "grasas": 0.2,
+                    "carbohidratos": 7.3
                 }
             },
             {
                 "menu": "Menú estándar",
                 "categoria": "Segundo",
-                "nombre": "Perca A La Marinera",
-                "alergenos": "Crustáceos  Moluscos  Pescado  Sulfitos",
+                "nombre": "Fritura De Pescado 2",
+                "alergenos": "Crustáceos  Gluten  Lácteos  Moluscos  Pescado",
                 "nutricion": {
-                    "kcal": 91.0,
-                    "proteinas": 19.4,
-                    "grasas": 0.9,
+                    "kcal": 96.0,
+                    "proteinas": 20.1,
+                    "grasas": 1.7,
                     "carbohidratos": 0.0
                 }
             },
             {
                 "menu": "Menú estándar",
                 "categoria": "Acompañamiento",
-                "nombre": "Pipirrana",
-                "alergenos": "Sulfitos",
+                "nombre": "Ensalada del Pastor",
+                "alergenos": "Huevos  Lácteos  Sulfitos",
                 "nutricion": {
-                    "kcal": 18.0,
-                    "proteinas": 0.9,
-                    "grasas": 0.2,
-                    "carbohidratos": 3.9
+                    "kcal": 109.9,
+                    "proteinas": 8.2,
+                    "grasas": 0.0,
+                    "carbohidratos": 16.5
                 }
             },
             {
@@ -728,58 +322,192 @@
             {
                 "menu": "Menú ovolactovegetariano",
                 "categoria": "Primero",
-                "nombre": "Cocido vegetariano",
-                "alergenos": "Apio  Sulfitos",
+                "nombre": "Puchero De Hinojos Vegano",
+                "alergenos": "Apio",
                 "nutricion": {
-                    "kcal": 64.0,
-                    "proteinas": 2.4,
-                    "grasas": 1.7,
-                    "carbohidratos": 10.3
+                    "kcal": 31.0,
+                    "proteinas": 1.2,
+                    "grasas": 0.2,
+                    "carbohidratos": 7.3
                 }
             },
             {
                 "menu": "Menú ovolactovegetariano",
                 "categoria": "Segundo",
-                "nombre": "Tofu A La Riojana",
-                "alergenos": "Soja",
+                "nombre": "Verdura Estofada Al Curry",
+                "alergenos": "Lácteos  Sulfitos",
                 "nutricion": {
-                    "kcal": 78.0,
-                    "proteinas": 9.0,
-                    "grasas": 4.2,
+                    "kcal": 325.0,
+                    "proteinas": 14.3,
+                    "grasas": 14.0,
+                    "carbohidratos": 55.8
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Acompañamiento",
+                "nombre": "Ensalada del Pastor",
+                "alergenos": "Huevos  Lácteos  Sulfitos",
+                "nutricion": {
+                    "kcal": 109.9,
+                    "proteinas": 8.2,
+                    "grasas": 0.0,
+                    "carbohidratos": 16.5
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Postre",
+                "nombre": "Pera",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 57.0,
+                    "proteinas": 0.4,
+                    "grasas": 0.1,
+                    "carbohidratos": 15.2
+                }
+            }
+        ],
+        "2026-03-11": [
+            {
+                "menu": "Menú estándar",
+                "categoria": "Primero",
+                "nombre": "Patatas En Ajo Pollo",
+                "alergenos": "Frutos de cáscara (almendra)  Gluten  Sulfitos",
+                "nutricion": {
+                    "kcal": 215.0,
+                    "proteinas": 18.6,
+                    "grasas": 15.1,
+                    "carbohidratos": 0.0
+                }
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Segundo",
+                "nombre": "Escalopes De Cerdo Con Ensalada Mixta",
+                "alergenos": "Gluten  Huevos  Lácteos  Sulfitos",
+                "nutricion": {
+                    "kcal": 198.0,
+                    "proteinas": 19.7,
+                    "grasas": 12.6,
+                    "carbohidratos": 0.0
+                }
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Postre",
+                "nombre": "Fresas",
+                "alergenos": ""
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Primero",
+                "nombre": "Patatas En Ajo Pollo Vegetarianas",
+                "alergenos": "Apio  Frutos de cáscara (almendras)  Gluten",
+                "nutricion": {
+                    "kcal": 149.0,
+                    "proteinas": 6.4,
+                    "grasas": 0.5,
+                    "carbohidratos": 33.1
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Segundo",
+                "nombre": "Hamburguesa De Espinacas Y Tofu",
+                "alergenos": "Frutos de cáscara  Gluten  Huevos  Soja",
+                "nutricion": {
+                    "kcal": 23.0,
+                    "proteinas": 2.9,
+                    "grasas": 0.4,
+                    "carbohidratos": 3.6
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Acompañamiento",
+                "nombre": "Ensalada Mixta 5",
+                "alergenos": "Huevos  Soja  Sulfitos",
+                "nutricion": {
+                    "kcal": 15.0,
+                    "proteinas": 1.4,
+                    "grasas": 0.1,
                     "carbohidratos": 2.9
                 }
             },
             {
                 "menu": "Menú ovolactovegetariano",
+                "categoria": "Postre",
+                "nombre": "Fresas",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 32.0,
+                    "proteinas": 0.7,
+                    "grasas": 0.3,
+                    "carbohidratos": 7.7
+                }
+            }
+        ],
+        "2026-03-12": [
+            {
+                "menu": "Menú estándar",
+                "categoria": "Primero",
+                "nombre": "Sopa De Albóndigas",
+                "alergenos": "Apio  Gluten  Huevos  Sulfitos"
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Segundo",
+                "nombre": "Pollo Asado",
+                "alergenos": "Apio  Sulfitos",
+                "nutricion": {
+                    "kcal": 167.0,
+                    "proteinas": 25.0,
+                    "grasas": 6.6,
+                    "carbohidratos": 0.0
+                }
+            },
+            {
+                "menu": "Menú estándar",
                 "categoria": "Acompañamiento",
-                "nombre": "Pipirrana",
+                "nombre": "Patatas A La Española",
                 "alergenos": "Sulfitos",
                 "nutricion": {
-                    "kcal": 18.0,
-                    "proteinas": 0.9,
-                    "grasas": 0.2,
-                    "carbohidratos": 3.9
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Postre",
-                "nombre": "Pera",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 57.0,
-                    "proteinas": 0.4,
+                    "kcal": 77.0,
+                    "proteinas": 2.0,
                     "grasas": 0.1,
-                    "carbohidratos": 15.2
+                    "carbohidratos": 17.5
                 }
-            }
-        ],
-        "2026-03-04": [
+            },
             {
                 "menu": "Menú estándar",
-                "categoria": "Cremas y sopas",
-                "nombre": "Crema de calabaza con queso",
-                "alergenos": "Apio  Lácteos",
+                "categoria": "Postre",
+                "nombre": "Naranja",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 47.0,
+                    "proteinas": 0.9,
+                    "grasas": 0.1,
+                    "carbohidratos": 11.8
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Primero",
+                "nombre": "Sopa De Panecillos (albóndigas de pan) Vegetariana",
+                "alergenos": "Apio  Gluten  Huevos  Sulfitos",
+                "nutricion": {
+                    "kcal": 279.0,
+                    "proteinas": 9.8,
+                    "grasas": 3.9,
+                    "carbohidratos": 50.1
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Segundo",
+                "nombre": "Pastel De Queso Cheddar Con Pasas Y Nueces",
+                "alergenos": "Frutos de cáscara (nueces)  Gluten  Huevos  Sulfitos",
                 "nutricion": {
                     "kcal": 403.0,
                     "proteinas": 22.9,
@@ -788,39 +516,65 @@
                 }
             },
             {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Acompañamiento",
+                "nombre": "Patatas A La Española",
+                "alergenos": "Sulfitos",
+                "nutricion": {
+                    "kcal": 77.0,
+                    "proteinas": 2.0,
+                    "grasas": 0.1,
+                    "carbohidratos": 17.5
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Postre",
+                "nombre": "Naranja",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 47.0,
+                    "proteinas": 0.9,
+                    "grasas": 0.1,
+                    "carbohidratos": 11.8
+                }
+            }
+        ],
+        "2026-03-13": [
+            {
                 "menu": "Menú estándar",
                 "categoria": "Primero",
-                "nombre": "Huevos Rotos Con Fritada De Setas Y Champiñones",
-                "alergenos": "Frutos de cáscara (almendras)  Huevos  Sulfitos",
+                "nombre": "Fideua",
+                "alergenos": "Crustáceos  Gluten  Moluscos  Pescado  Sulfitos",
                 "nutricion": {
-                    "kcal": 22.0,
-                    "proteinas": 3.1,
-                    "grasas": 0.3,
-                    "carbohidratos": 3.3
+                    "kcal": 108.7,
+                    "proteinas": 8.3,
+                    "grasas": 3.2,
+                    "carbohidratos": 11.4
                 }
             },
             {
                 "menu": "Menú estándar",
                 "categoria": "Segundo",
-                "nombre": "Jamón asado en salsa de strogonoff",
-                "alergenos": "Apio  Lácteos  Mostaza  Sulfitos",
+                "nombre": "Aguja En Salsa de Pimienta",
+                "alergenos": "Gluten  Lácteos  Sulfitos",
                 "nutricion": {
-                    "kcal": 164.0,
-                    "proteinas": 16.6,
-                    "grasas": 8.8,
-                    "carbohidratos": 3.6
+                    "kcal": 11.0,
+                    "proteinas": 0.5,
+                    "grasas": 0.4,
+                    "carbohidratos": 1.8
                 }
             },
             {
                 "menu": "Menú estándar",
                 "categoria": "Acompañamiento",
-                "nombre": "Judías y zanahorias",
-                "alergenos": "",
+                "nombre": "Fritura De Hortalizas",
+                "alergenos": "Gluten",
                 "nutricion": {
-                    "kcal": 333.0,
-                    "proteinas": 23.4,
-                    "grasas": 0.8,
-                    "carbohidratos": 60.3
+                    "kcal": 72.0,
+                    "proteinas": 3.3,
+                    "grasas": 0.5,
+                    "carbohidratos": 13.5
                 }
             },
             {
@@ -837,119 +591,27 @@
             },
             {
                 "menu": "Menú ovolactovegetariano",
-                "categoria": "Cremas y sopas",
-                "nombre": "Crema de calabaza con queso",
-                "alergenos": "Apio  Lácteos",
-                "nutricion": {
-                    "kcal": 403.0,
-                    "proteinas": 22.9,
-                    "grasas": 33.3,
-                    "carbohidratos": 3.4
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
                 "categoria": "Primero",
-                "nombre": "Huevos Rotos Con Fritada De Setas Y Champiñones",
-                "alergenos": "Frutos de cáscara (almendras)  Gluten  Huevos",
-                "nutricion": {
-                    "kcal": 22.0,
-                    "proteinas": 3.1,
-                    "grasas": 0.3,
-                    "carbohidratos": 3.3
-                }
+                "nombre": "Fideua De Verduras (Vegetariano)",
+                "alergenos": "Apio  Gluten  Sulfitos"
             },
             {
                 "menu": "Menú ovolactovegetariano",
                 "categoria": "Segundo",
-                "nombre": "Hamburguesa de alubías rojas",
-                "alergenos": "Frutos de cáscara (pipas de girasol)  Huevos  Sésamo",
+                "nombre": "Seitán En Salsa De Manzana",
+                "alergenos": "Gluten  Soja  Sulfitos",
                 "nutricion": {
-                    "kcal": 333.0,
-                    "proteinas": 23.6,
-                    "grasas": 0.8,
-                    "carbohidratos": 60.0
+                    "kcal": 133.0,
+                    "proteinas": 23.2,
+                    "grasas": 2.2,
+                    "carbohidratos": 4.4
                 }
             },
             {
                 "menu": "Menú ovolactovegetariano",
                 "categoria": "Acompañamiento",
-                "nombre": "Judías y zanahorias",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 333.0,
-                    "proteinas": 23.4,
-                    "grasas": 0.8,
-                    "carbohidratos": 60.3
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Postre",
-                "nombre": "Manzana",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 52.0,
-                    "proteinas": 0.3,
-                    "grasas": 0.2,
-                    "carbohidratos": 13.8
-                }
-            }
-        ],
-        "2026-03-05": [
-            {
-                "menu": "Menú estándar",
-                "categoria": "Primero",
-                "nombre": "Paella Mixta",
-                "alergenos": "Apio  Crustáceos  Moluscos  Pescado  Sulfitos",
-                "nutricion": {
-                    "kcal": 126.9,
-                    "proteinas": 8.2,
-                    "grasas": 5.0,
-                    "carbohidratos": 11.6
-                }
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Segundo",
-                "nombre": "Tortilla española, Salchichas de cerdo y Ensalada de col",
-                "alergenos": "Apio  Huevos  Mostaza  Sulfitos",
-                "nutricion": {
-                    "kcal": 288.0,
-                    "proteinas": 15.4,
-                    "grasas": 24.8,
-                    "carbohidratos": 0.9
-                }
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Postre",
-                "nombre": "Natillas con buñuelos de chocolate",
-                "alergenos": "Huevos  Lácteos  Sulfitos",
-                "nutricion": {
-                    "kcal": 104.0,
-                    "proteinas": 5.0,
-                    "grasas": 4.6,
-                    "carbohidratos": 11.0
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Primero",
-                "nombre": "Paella de la huerta",
-                "alergenos": "Apio",
-                "nutricion": {
-                    "kcal": 126.9,
-                    "proteinas": 8.2,
-                    "grasas": 5.0,
-                    "carbohidratos": 11.6
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Segundo",
-                "nombre": "Tortilla Española, Salchichas Vegetales y Ensalada de Col",
-                "alergenos": "Apio  Huevos  Mostaza  Soja  Sulfitos",
+                "nombre": "Fritura De Hortalizas",
+                "alergenos": "Gluten",
                 "nutricion": {
                     "kcal": 72.0,
                     "proteinas": 3.3,
@@ -960,16 +622,110 @@
             {
                 "menu": "Menú ovolactovegetariano",
                 "categoria": "Postre",
-                "nombre": "Natillas con buñuelos de chocolate",
-                "alergenos": "Huevos  Lácteos  Sulfitos",
+                "nombre": "Manzana",
+                "alergenos": "",
                 "nutricion": {
-                    "kcal": 104.0,
-                    "proteinas": 5.0,
-                    "grasas": 4.6,
-                    "carbohidratos": 11.0
+                    "kcal": 52.0,
+                    "proteinas": 0.3,
+                    "grasas": 0.2,
+                    "carbohidratos": 13.8
                 }
             }
         ],
+        "2026-03-14": [
+            {
+                "menu": "Menú estándar",
+                "categoria": "Primero",
+                "nombre": "Migas De Sémola",
+                "alergenos": "Gluten  Huevos",
+                "nutricion": {
+                    "kcal": 360.0,
+                    "proteinas": 12.7,
+                    "grasas": 1.1,
+                    "carbohidratos": 72.8
+                }
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Segundo",
+                "nombre": "Costillas De Cerdo A La Miel y Menta",
+                "alergenos": "Apio  Gluten  Sulfitos",
+                "nutricion": {
+                    "kcal": 277.0,
+                    "proteinas": 15.5,
+                    "grasas": 23.4,
+                    "carbohidratos": 0.0
+                }
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Acompañamiento",
+                "nombre": "Patatas Parisinas Confitadas",
+                "alergenos": "Gluten",
+                "nutricion": {
+                    "kcal": 77.0,
+                    "proteinas": 2.0,
+                    "grasas": 0.1,
+                    "carbohidratos": 17.5
+                }
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Postre",
+                "nombre": "Melón",
+                "alergenos": ""
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Primero",
+                "nombre": "Migas De Sémola Vegetarianas",
+                "alergenos": "Gluten  Huevos",
+                "nutricion": {
+                    "kcal": 360.0,
+                    "proteinas": 12.7,
+                    "grasas": 1.1,
+                    "carbohidratos": 72.8
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Segundo",
+                "nombre": "Tortilla De Hortalizas",
+                "alergenos": "Gluten*  Huevos  Lácteos",
+                "nutricion": {
+                    "kcal": 72.0,
+                    "proteinas": 3.3,
+                    "grasas": 0.5,
+                    "carbohidratos": 13.5
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Acompañamiento",
+                "nombre": "Pisto de calabaza",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 26.0,
+                    "proteinas": 1.0,
+                    "grasas": 0.1,
+                    "carbohidratos": 6.5
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Postre",
+                "nombre": "Melón",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 34.0,
+                    "proteinas": 0.8,
+                    "grasas": 0.2,
+                    "carbohidratos": 8.2
+                }
+            }
+        ]
+    },
+    "PTS": {
         "2026-03-06": [
             {
                 "menu": "Menú estándar",
@@ -1065,6 +821,478 @@
                     "proteinas": 0.5,
                     "grasas": 0.1,
                     "carbohidratos": 13.1
+                }
+            }
+        ],
+        "2026-03-09": [
+            {
+                "menu": "Menú estándar",
+                "categoria": "Primero",
+                "nombre": "Espaguetis En Salsa Aurora",
+                "alergenos": "Frutos de cáscara  Huevos  Lácteos  Soja",
+                "nutricion": {
+                    "kcal": 158.0,
+                    "proteinas": 5.8,
+                    "grasas": 0.9,
+                    "carbohidratos": 30.9
+                }
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Segundo",
+                "nombre": "Lomo Braseado",
+                "alergenos": "Apio  Sulfitos",
+                "nutricion": {
+                    "kcal": 146.2,
+                    "proteinas": 13.0,
+                    "grasas": 8.7,
+                    "carbohidratos": 3.3
+                }
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Acompañamiento",
+                "nombre": "Menestra 24 bis",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 84.7,
+                    "proteinas": 4.2,
+                    "grasas": 4.7,
+                    "carbohidratos": 6.4
+                }
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Postre",
+                "nombre": "Mandarinas",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 53.0,
+                    "proteinas": 0.8,
+                    "grasas": 0.3,
+                    "carbohidratos": 13.3
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Primero",
+                "nombre": "Espaguetis Con Boronía (vegetariano)",
+                "alergenos": "Apio  Huevos  Sulfitos",
+                "nutricion": {
+                    "kcal": 158.0,
+                    "proteinas": 5.8,
+                    "grasas": 0.9,
+                    "carbohidratos": 30.9
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Segundo",
+                "nombre": "Tortilla De Hortalizas",
+                "alergenos": "Huevos  Lácteos  Sulfitos",
+                "nutricion": {
+                    "kcal": 72.0,
+                    "proteinas": 3.3,
+                    "grasas": 0.5,
+                    "carbohidratos": 13.5
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Acompañamiento",
+                "nombre": "Menestra 24 bis",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 84.7,
+                    "proteinas": 4.2,
+                    "grasas": 4.7,
+                    "carbohidratos": 6.4
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Postre",
+                "nombre": "Mandarinas",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 53.0,
+                    "proteinas": 0.8,
+                    "grasas": 0.3,
+                    "carbohidratos": 13.3
+                }
+            }
+        ],
+        "2026-03-10": [
+            {
+                "menu": "Menú estándar",
+                "categoria": "Primero",
+                "nombre": "Puchero De Hinojos",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 31.0,
+                    "proteinas": 1.2,
+                    "grasas": 0.2,
+                    "carbohidratos": 7.3
+                }
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Segundo",
+                "nombre": "Merluza A La Marinera",
+                "alergenos": "Crustáceos  Moluscos  Pescado  Sulfitos",
+                "nutricion": {
+                    "kcal": 82.0,
+                    "proteinas": 17.8,
+                    "grasas": 0.7,
+                    "carbohidratos": 0.0
+                }
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Acompañamiento",
+                "nombre": "Ensalada del Pastor",
+                "alergenos": "Huevos  Lácteos  Sulfitos",
+                "nutricion": {
+                    "kcal": 109.9,
+                    "proteinas": 8.2,
+                    "grasas": 0.0,
+                    "carbohidratos": 16.5
+                }
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Postre",
+                "nombre": "Pera",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 57.0,
+                    "proteinas": 0.4,
+                    "grasas": 0.1,
+                    "carbohidratos": 15.2
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Primero",
+                "nombre": "Puchero De Hinojos",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 31.0,
+                    "proteinas": 1.2,
+                    "grasas": 0.2,
+                    "carbohidratos": 7.3
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Segundo",
+                "nombre": "Habas y acelgas salteadas con huevo escalfado",
+                "alergenos": "Huevos",
+                "nutricion": {
+                    "kcal": 143.0,
+                    "proteinas": 12.5,
+                    "grasas": 9.5,
+                    "carbohidratos": 0.7
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Acompañamiento",
+                "nombre": "Ensalada del Pastor",
+                "alergenos": "Huevos  Lácteos  Sulfitos",
+                "nutricion": {
+                    "kcal": 109.9,
+                    "proteinas": 8.2,
+                    "grasas": 0.0,
+                    "carbohidratos": 16.5
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Postre",
+                "nombre": "Pera",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 57.0,
+                    "proteinas": 0.4,
+                    "grasas": 0.1,
+                    "carbohidratos": 15.2
+                }
+            }
+        ],
+        "2026-03-11": [
+            {
+                "menu": "Menú estándar",
+                "categoria": "Primero",
+                "nombre": "Patatas En Ajo Pollo",
+                "alergenos": "Frutos de cáscara (almendras)  Sulfitos",
+                "nutricion": {
+                    "kcal": 215.0,
+                    "proteinas": 18.6,
+                    "grasas": 15.1,
+                    "carbohidratos": 0.0
+                }
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Segundo",
+                "nombre": "Chuleta De Cerdo A La Parrilla Con Ensalada Mixta",
+                "alergenos": "Soja  Sulfitos",
+                "nutricion": {
+                    "kcal": 170.0,
+                    "proteinas": 20.7,
+                    "grasas": 9.0,
+                    "carbohidratos": 0.0
+                }
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Postre",
+                "nombre": "Fresas",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 32.0,
+                    "proteinas": 0.7,
+                    "grasas": 0.3,
+                    "carbohidratos": 7.7
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Primero",
+                "nombre": "Patatas En Ajo Pollo Vegetarianas",
+                "alergenos": "Apio  Frutos de cáscara (almendra)  Sulfitos",
+                "nutricion": {
+                    "kcal": 149.0,
+                    "proteinas": 6.4,
+                    "grasas": 0.5,
+                    "carbohidratos": 33.1
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Segundo",
+                "nombre": "Escalopines De Tofu A La Naranja",
+                "alergenos": "Soja",
+                "nutricion": {
+                    "kcal": 78.0,
+                    "proteinas": 9.0,
+                    "grasas": 4.2,
+                    "carbohidratos": 2.9
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Acompañamiento",
+                "nombre": "Flan de guisantes",
+                "alergenos": "Huevos  Lácteos"
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Postre",
+                "nombre": "Fresas",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 32.0,
+                    "proteinas": 0.7,
+                    "grasas": 0.3,
+                    "carbohidratos": 7.7
+                }
+            }
+        ],
+        "2026-03-12": [
+            {
+                "menu": "Menú estándar",
+                "categoria": "Primero",
+                "nombre": "Sopa De Albóndigas",
+                "alergenos": "Apio  Huevos  Sulfitos",
+                "nutricion": {
+                    "kcal": 254.0,
+                    "proteinas": 17.2,
+                    "grasas": 20.0,
+                    "carbohidratos": 0.0
+                }
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Segundo",
+                "nombre": "Pollo Asado",
+                "alergenos": "Apio  Sulfitos",
+                "nutricion": {
+                    "kcal": 167.0,
+                    "proteinas": 25.0,
+                    "grasas": 6.6,
+                    "carbohidratos": 0.0
+                }
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Acompañamiento",
+                "nombre": "Patatas A La Española",
+                "alergenos": "Sulfitos",
+                "nutricion": {
+                    "kcal": 77.0,
+                    "proteinas": 2.0,
+                    "grasas": 0.1,
+                    "carbohidratos": 17.5
+                }
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Postre",
+                "nombre": "Naranja",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 47.0,
+                    "proteinas": 0.9,
+                    "grasas": 0.1,
+                    "carbohidratos": 11.8
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Primero",
+                "nombre": "Sopa De Panecillos (albóndigas de pan) Vegetariana",
+                "alergenos": "Apio  Huevos  Sulfitos",
+                "nutricion": {
+                    "kcal": 279.0,
+                    "proteinas": 9.8,
+                    "grasas": 3.9,
+                    "carbohidratos": 50.1
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Segundo",
+                "nombre": "Hamburguesa De Espinacas Y Tofu",
+                "alergenos": "Frutos de cáscara (almendras)  Huevos  Soja",
+                "nutricion": {
+                    "kcal": 23.0,
+                    "proteinas": 2.9,
+                    "grasas": 0.4,
+                    "carbohidratos": 3.6
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Acompañamiento",
+                "nombre": "Patatas A La Española",
+                "alergenos": "Sulfitos",
+                "nutricion": {
+                    "kcal": 77.0,
+                    "proteinas": 2.0,
+                    "grasas": 0.1,
+                    "carbohidratos": 17.5
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Postre",
+                "nombre": "Naranja",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 47.0,
+                    "proteinas": 0.9,
+                    "grasas": 0.1,
+                    "carbohidratos": 11.8
+                }
+            }
+        ],
+        "2026-03-13": [
+            {
+                "menu": "Menú estándar",
+                "categoria": "Primero",
+                "nombre": "Fideuá",
+                "alergenos": "Crustáceos  Moluscos  Pescado  Sulfitos",
+                "nutricion": {
+                    "kcal": 108.7,
+                    "proteinas": 8.3,
+                    "grasas": 3.2,
+                    "carbohidratos": 11.4
+                }
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Segundo",
+                "nombre": "Aguja En Salsa de Pimienta",
+                "alergenos": "Lácteos  Sulfitos",
+                "nutricion": {
+                    "kcal": 11.0,
+                    "proteinas": 0.5,
+                    "grasas": 0.4,
+                    "carbohidratos": 1.8
+                }
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Acompañamiento",
+                "nombre": "Judías y zanahorias",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 333.0,
+                    "proteinas": 23.4,
+                    "grasas": 0.8,
+                    "carbohidratos": 60.3
+                }
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Postre",
+                "nombre": "Manzana",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 52.0,
+                    "proteinas": 0.3,
+                    "grasas": 0.2,
+                    "carbohidratos": 13.8
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Primero",
+                "nombre": "Fideua De Verduras (Vegetariano)",
+                "alergenos": "Apio  Sulfitos",
+                "nutricion": {
+                    "kcal": 72.0,
+                    "proteinas": 3.3,
+                    "grasas": 0.5,
+                    "carbohidratos": 13.5
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Segundo",
+                "nombre": "Tofu A La Portuguesa",
+                "alergenos": "Soja  Sulfitos",
+                "nutricion": {
+                    "kcal": 78.0,
+                    "proteinas": 9.0,
+                    "grasas": 4.2,
+                    "carbohidratos": 2.9
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Acompañamiento",
+                "nombre": "Judías y zanahorias",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 333.0,
+                    "proteinas": 23.4,
+                    "grasas": 0.8,
+                    "carbohidratos": 60.3
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Postre",
+                "nombre": "Manzana",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 52.0,
+                    "proteinas": 0.3,
+                    "grasas": 0.2,
+                    "carbohidratos": 13.8
                 }
             }
         ]

@@ -9,16 +9,16 @@ usarla sin pagar es mediante un plan que permite sólo 5 consultas por minuto, l
 al programa a esperar 12 segundos entre consulta y consulta (60/5=12).
 
 NOTA: este archivo pertenece a la primera versión del bot, ahora se usa el "analizador_nutricional.py" para las
-estimaciones ya que Edamam daba unos estimados malísimos siendo generosos.
+estimaciones ya que Edamam daba unos estimados malísimos siendo generosos. Tomar este archivo como un mero ejemplo
 """
 
 
 import json
-import requests
+#import requests
 import time
 import os
 from dotenv import load_dotenv
-from deep_translator import GoogleTranslator #la API trabaja en inglés
+#from deep_translator import GoogleTranslator #la API trabaja en inglés
 
 load_dotenv()
 APP_ID = os.getenv("BD_APP_ID")
@@ -43,7 +43,8 @@ def analisis_api(plato_bruto):
         plato_en = excepciones[plato_es]
     else:
         try: 
-            plato_en = GoogleTranslator(source='es', target='en').translate(plato_es).lower()
+            plato_en = plato_es #esto obviamente no funcionará
+            #plato_en = GoogleTranslator(source='es', target='en').translate(plato_es).lower()
         except: 
             plato_en = plato_es #por si falla la traducción
 

@@ -53,7 +53,7 @@ def analisis_ia(nom_plato):
         )
         return response.parsed # Devuelve directamente el diccionario
     except Exception as e:
-        print(f"❌ Error con Gemini en {nombre_plato}: {e}")
+        print(f"❌ Error con Gemini en {nom_plato}: {e}")
         return None
 
 #Cargamos el menú
