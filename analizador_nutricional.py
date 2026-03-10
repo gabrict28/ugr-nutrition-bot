@@ -47,7 +47,7 @@ def analisis_ia(nom_plato):
 
     try:
         response = client.models.generate_content(
-            model='gemini-1.5-flash', #si en un futuro fuera necesario, podemos definir model='gemini-1.5-pro'
+            model='gemini-1.5-flash-002', #si en un futuro fuera necesario, podemos definir model='gemini-1.5-pro'
             contents=prompt,
             config=config
         )
