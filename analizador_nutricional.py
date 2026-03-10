@@ -39,7 +39,7 @@ def analisis_ia(nom_plato):
 
     try:
         response = client.models.generate_content(
-            model='gemini-2.0-flash', #si en un futuro fuera necesario, podemos definirlo como pro
+            model='gemini-1.5-flash', #si en un futuro fuera necesario, podemos definirlo como pro
             contents=prompt,
             config=config
         )
@@ -68,11 +68,20 @@ for sede, dias in datos_menu.items():
                 plato['nutricion'] = cache[nombre]
             else:
                 #Si no está en caché, le preguntamos al sabio
-                info = analisis_ia(nombre)
+                intentos = 0
+                info = None
+
+                while intentos < 3:
+                    info = analisis_ia(nombre)
+                    if info:
+                        break
+                    intentos += 1
+                    time.sleep(10)
+                
                 if info:
                     plato['nutricion'] = info
                     cache[nombre] = info
-                    time.sleep(4.5) #La cuota de Gemini Flash es de 15 solicitudes por minuto
+                    time.sleep(6) #La cuota de Gemini Flash es de 15 solicitudes por minuto
                 else:
                     print("❌No ha podido ser analizado❌")  
 
