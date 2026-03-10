@@ -1,0 +1,284 @@
+{
+    "Arroz caldoso marinero": {
+        "kcal": 130.0,
+        "proteinas": 2.7,
+        "grasas": 0.3,
+        "carbohidratos": 28.2
+    },
+    "Ensaladilla Rusa": {
+        "kcal": 130.1,
+        "proteinas": 3.2,
+        "grasas": 8.4,
+        "carbohidratos": 11.0
+    },
+    "Natillas caseras": {
+        "kcal": 142.0,
+        "proteinas": 3.8,
+        "grasas": 5.2,
+        "carbohidratos": 20.5
+    },
+    "Arroz Con Verduras Y Legumbres (Vegetariano)": {
+        "kcal": 152.0,
+        "proteinas": 5.2,
+        "grasas": 4.5,
+        "carbohidratos": 21.5
+    },
+    "Hamburguesa De Alubías Rojas": {
+        "kcal": 192.0,
+        "proteinas": 10.5,
+        "grasas": 7.4,
+        "carbohidratos": 20.8
+    },
+    "Macarrones a la napolitana": {
+        "kcal": 166.0,
+        "proteinas": 5.2,
+        "grasas": 4.8,
+        "carbohidratos": 24.5
+    },
+    "Pechuga frita al estilo sureño": {
+        "kcal": 289.0,
+        "proteinas": 23.5,
+        "grasas": 15.2,
+        "carbohidratos": 14.5
+    },
+    "Ensalada Mixta": {
+        "kcal": 15.0,
+        "proteinas": 1.4,
+        "grasas": 0.1,
+        "carbohidratos": 2.9
+    },
+    "Mandarinas": {
+        "kcal": 53.0,
+        "proteinas": 0.8,
+        "grasas": 0.3,
+        "carbohidratos": 13.3
+    },
+    "Macarrones a la Napolitana": {
+        "kcal": 166.0,
+        "proteinas": 5.2,
+        "grasas": 4.8,
+        "carbohidratos": 24.5
+    },
+    "Escalopines de seitán a la Milanesa": {
+        "kcal": 268.0,
+        "proteinas": 17.5,
+        "grasas": 14.5,
+        "carbohidratos": 19.8
+    },
+    "Fogonero Mare Nostrum": {
+        "kcal": 115.0,
+        "proteinas": 12.5,
+        "grasas": 4.5,
+        "carbohidratos": 9.0
+    },
+    "Pastel Cordobés 2": {
+        "kcal": 412.0,
+        "proteinas": 3.9,
+        "grasas": 22.5,
+        "carbohidratos": 53.0
+    },
+    "Cocido": {
+        "kcal": 162.0,
+        "proteinas": 9.4,
+        "grasas": 7.8,
+        "carbohidratos": 14.5
+    },
+    "Pera": {
+        "kcal": 57.0,
+        "proteinas": 0.4,
+        "grasas": 0.1,
+        "carbohidratos": 15.2
+    },
+    "Cocido vegetariano": {
+        "kcal": 138.0,
+        "proteinas": 5.8,
+        "grasas": 4.5,
+        "carbohidratos": 18.2
+    },
+    "Tofu a la Riojana": {
+        "kcal": 126.9,
+        "proteinas": 7.2,
+        "grasas": 8.8,
+        "carbohidratos": 5.4
+    },
+    "Crema de calabaza con queso": {
+        "kcal": 88.0,
+        "proteinas": 3.2,
+        "grasas": 5.8,
+        "carbohidratos": 7.1
+    },
+    "Huevos Rotos Con Fritada De Setas Y Champiñones": {
+        "kcal": 176.0,
+        "proteinas": 6.8,
+        "grasas": 12.4,
+        "carbohidratos": 10.2
+    },
+    "Jamón asado en salsa de strogonoff": {
+        "kcal": 198.0,
+        "proteinas": 18.2,
+        "grasas": 12.5,
+       "carbohidratos": 4.2
+    },
+    "Manzana": {
+        "kcal": 52.0,
+        "proteinas": 0.3,
+        "grasas": 0.2,
+        "carbohidratos": 13.8
+    },
+    "Judías y zanahorias": {
+        "kcal": 45.0,
+        "proteinas": 1.8,
+        "grasas": 2.5,
+        "carbohidratos": 5.2
+    },
+    "Empedrado de Lentejas Vegetariano": {
+        "kcal": 148.0,
+        "proteinas": 8.2,
+        "grasas": 4.5,
+        "carbohidratos": 18.8
+    },
+    "Escalope de ternera": {
+        "kcal": 262.0,
+        "proteinas": 18.5,
+        "grasas": 14.2,
+        "carbohidratos": 15.4
+    },
+    "Patatas bastón": {
+        "kcal": 290.0,
+        "proteinas": 3.4,
+        "grasas": 14.0,
+        "carbohidratos": 38.0
+    },
+    "Natillas con buñuelos de chocolate": {
+        "kcal": 218.0,
+        "proteinas": 4.8,
+        "grasas": 10.5,
+        "carbohidratos": 26.0
+    },
+    "San Jacobo De Calabacín": {
+        "kcal": 232.0,
+        "proteinas": 8.5,
+        "grasas": 14.8,
+        "carbohidratos": 16.5
+    },
+    "Salmorejo vegetariano": {
+        "kcal": 158.0,
+        "proteinas": 3.8,
+        "grasas": 11.2,
+        "carbohidratos": 12.5
+    },
+    "Bacalao gratinado con alioli sobre tomate confitado": {
+        "kcal": 325.0,
+        "proteinas": 16.3,
+        "grasas": 25.0,
+        "carbohidratos": 5.0
+    },
+    "Piña": {
+        "kcal": 50.0,
+        "proteinas": 0.5,
+        "grasas": 0.1,
+        "carbohidratos": 13.1
+    },
+    "Guisado de Campo": {
+        "kcal": 132.0,
+        "proteinas": 7.8,
+        "grasas": 7.2,
+        "carbohidratos": 16.5
+    },
+    "Salchichas Vegetales Gratinadas Sobre Tomate Confitado": {
+        "kcal": 238.0,
+        "proteinas": 11.5,
+        "grasas": 16.2,
+        "carbohidratos": 11.5
+    },
+    "Paella Mixta": {
+        "kcal": 168.0,
+        "proteinas": 7.5,
+        "grasas": 6.2,
+        "carbohidratos": 21.5
+    },
+    "Tortilla Española, Pinchitos y Ensalada De Col": {
+        "kcal": 224.0,
+        "proteinas": 12.8,
+        "grasas": 14.5,
+        "carbohidratos": 11.2
+    },
+    "Pudin Diplomático": {
+        "kcal": 235.0,
+        "proteinas": 5.4,
+        "grasas": 8.2,
+        "carbohidratos": 35.0
+    },
+    "Paella de la huerta": {
+        "kcal": 142.0,
+        "proteinas": 3.2,
+        "grasas": 4.2,
+        "carbohidratos": 23.5
+    },
+    "Pechuga Frita Al Estilo Sureño": {
+        "kcal": 303.0,
+        "proteinas": 21.9,
+        "grasas": 18.1,
+        "carbohidratos": 12.0
+    },
+    "Macarrones a la Napolitana vegetarianos": {
+        "kcal": 158.0,
+        "proteinas": 5.8,
+        "grasas": 0.9,
+        "carbohidratos": 30.9
+    },
+    "Cachopo de berenjenas": {
+        "kcal": 242.0,
+        "proteinas": 8.6,
+        "grasas": 15.5,
+        "carbohidratos": 18.2
+    },
+    "Tofu A La Riojana": {
+        "kcal": 78.0,
+        "proteinas": 9.0,
+        "grasas": 4.2,
+        "carbohidratos": 2.9
+    },
+    "Hamburguesa de alubías rojas": {
+        "kcal": 333.0,
+        "proteinas": 23.6,
+        "grasas": 0.8,
+        "carbohidratos": 60.0
+    },
+    "Tortilla española, Salchichas de cerdo y Ensalada de col": {
+        "kcal": 226.0,
+        "proteinas": 10.2,
+        "grasas": 16.5,
+        "carbohidratos": 11.8
+    },
+    "Marmitako": {
+        "kcal": 112.4,
+        "proteinas": 11.1,
+        "grasas": 3.0,
+        "carbohidratos": 8.98
+    },
+    "Tortilla Española, Berenjenas Empanadas y Ensalada de Col": {
+        "kcal": 198.0,
+        "proteinas": 5.8,
+        "grasas": 13.2,
+        "carbohidratos": 15.5
+    },
+    "Pipirrana": {
+        "kcal": 18.0,
+        "proteinas": 0.9,
+        "grasas": 0.2,
+        "carbohidratos": 3.9
+    },
+    "Tortilla Española, Salchichas Vegetales y Ensalada de Col": {
+        "kcal": 184.0,
+        "proteinas": 8.5,
+        "grasas": 11.5,
+        "carbohidratos": 12.4
+    },
+    "Perca A La Marinera": {
+        "kcal": 124.0,
+        "proteinas": 17.2,
+        "grasas": 5.4,
+        "carbohidratos": 2.8
+    }
+}
