@@ -126,15 +126,15 @@ for sede, dias in datos_menu.items():
             if nombre in cache:
                 plato['nutricion'] = cache[nombre]
             else:
-                #Si no está en caché, le preguntamos al sabio
                 info = analisis_api(nombre)
 
                 if info:
                     plato['nutricion'] = info
                     cache[nombre] = info
-                    time.sleep(2)
+                    
                 else:
-                    print("❌No ha podido ser analizado❌")    
+                    print("❌Fallo en Edamam❌")    
+                    time.sleep(12)
 
 #Guardamos los datos en el json
 with open(OUTPUT_NUTRI, 'w', encoding='utf-8') as nutrifacts:
