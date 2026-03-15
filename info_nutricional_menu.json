@@ -23,7 +23,13 @@
                 "menu": "Menú estándar",
                 "categoria": "Postre",
                 "nombre": "Manzana",
-                "alergenos": ""
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 52.0,
+                    "proteinas": 0.3,
+                    "grasas": 0.2,
+                    "carbohidratos": 13.8
+                }
             },
             {
                 "menu": "Menú ovolactovegetariano",
@@ -47,7 +53,13 @@
                 "menu": "Menú ovolactovegetariano",
                 "categoria": "Postre",
                 "nombre": "Manzana",
-                "alergenos": ""
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 52.0,
+                    "proteinas": 0.3,
+                    "grasas": 0.2,
+                    "carbohidratos": 13.8
+                }
             }
         ],
         "2026-03-14": [
@@ -123,7 +135,13 @@
                 "menu": "Menú estándar",
                 "categoria": "Postre",
                 "nombre": "Mandarinas",
-                "alergenos": ""
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 53.0,
+                    "proteinas": 0.8,
+                    "grasas": 0.3,
+                    "carbohidratos": 13.3
+                }
             },
             {
                 "menu": "Menú ovolactovegetariano",
@@ -147,7 +165,13 @@
                 "menu": "Menú ovolactovegetariano",
                 "categoria": "Postre",
                 "nombre": "Mandarinas",
-                "alergenos": ""
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 53.0,
+                    "proteinas": 0.8,
+                    "grasas": 0.3,
+                    "carbohidratos": 13.3
+                }
             }
         ],
         "2026-03-17": [
@@ -223,7 +247,13 @@
                 "menu": "Menú estándar",
                 "categoria": "Postre",
                 "nombre": "Manzana",
-                "alergenos": ""
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 52.0,
+                    "proteinas": 0.3,
+                    "grasas": 0.2,
+                    "carbohidratos": 13.8
+                }
             },
             {
                 "menu": "Menú ovolactovegetariano",
@@ -247,7 +277,13 @@
                 "menu": "Menú ovolactovegetariano",
                 "categoria": "Postre",
                 "nombre": "Manzana",
-                "alergenos": ""
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 52.0,
+                    "proteinas": 0.3,
+                    "grasas": 0.2,
+                    "carbohidratos": 13.8
+                }
             }
         ],
         "2026-03-19": [
@@ -373,7 +409,13 @@
                 "menu": "Menú estándar",
                 "categoria": "Postre",
                 "nombre": "Pera",
-                "alergenos": ""
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 57.0,
+                    "proteinas": 0.4,
+                    "grasas": 0.1,
+                    "carbohidratos": 15.2
+                }
             },
             {
                 "menu": "Menú ovolactovegetariano",
@@ -397,7 +439,13 @@
                 "menu": "Menú ovolactovegetariano",
                 "categoria": "Postre",
                 "nombre": "Pera",
-                "alergenos": ""
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 57.0,
+                    "proteinas": 0.4,
+                    "grasas": 0.1,
+                    "carbohidratos": 15.2
+                }
             }
         ]
     },
@@ -419,13 +467,25 @@
                 "menu": "Menú estándar",
                 "categoria": "Acompañamiento",
                 "nombre": "Judías y zanahorias",
-                "alergenos": ""
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 45.0,
+                    "proteinas": 1.8,
+                    "grasas": 2.5,
+                    "carbohidratos": 5.2
+                }
             },
             {
                 "menu": "Menú estándar",
                 "categoria": "Postre",
                 "nombre": "Manzana",
-                "alergenos": ""
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 52.0,
+                    "proteinas": 0.3,
+                    "grasas": 0.2,
+                    "carbohidratos": 13.8
+                }
             },
             {
                 "menu": "Menú ovolactovegetariano",
@@ -443,13 +503,25 @@
                 "menu": "Menú ovolactovegetariano",
                 "categoria": "Acompañamiento",
                 "nombre": "Judías y zanahorias",
-                "alergenos": ""
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 45.0,
+                    "proteinas": 1.8,
+                    "grasas": 2.5,
+                    "carbohidratos": 5.2
+                }
             },
             {
                 "menu": "Menú ovolactovegetariano",
                 "categoria": "Postre",
                 "nombre": "Manzana",
-                "alergenos": ""
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 52.0,
+                    "proteinas": 0.3,
+                    "grasas": 0.2,
+                    "carbohidratos": 13.8
+                }
             }
         ],
         "2026-03-16": [
@@ -475,7 +547,13 @@
                 "menu": "Menú estándar",
                 "categoria": "Postre",
                 "nombre": "Mandarinas",
-                "alergenos": ""
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 53.0,
+                    "proteinas": 0.8,
+                    "grasas": 0.3,
+                    "carbohidratos": 13.3
+                }
             },
             {
                 "menu": "Menú ovolactovegetariano",
@@ -499,7 +577,13 @@
                 "menu": "Menú ovolactovegetariano",
                 "categoria": "Postre",
                 "nombre": "Mandarinas",
-                "alergenos": ""
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 53.0,
+                    "proteinas": 0.8,
+                    "grasas": 0.3,
+                    "carbohidratos": 13.3
+                }
             }
         ],
         "2026-03-17": [
@@ -575,7 +659,13 @@
                 "menu": "Menú estándar",
                 "categoria": "Postre",
                 "nombre": "Manzana",
-                "alergenos": ""
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 52.0,
+                    "proteinas": 0.3,
+                    "grasas": 0.2,
+                    "carbohidratos": 13.8
+                }
             },
             {
                 "menu": "Menú ovolactovegetariano",
@@ -599,7 +689,13 @@
                 "menu": "Menú ovolactovegetariano",
                 "categoria": "Postre",
                 "nombre": "Manzana",
-                "alergenos": ""
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 52.0,
+                    "proteinas": 0.3,
+                    "grasas": 0.2,
+                    "carbohidratos": 13.8
+                }
             }
         ],
         "2026-03-19": [
