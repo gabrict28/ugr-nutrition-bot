@@ -1,389 +1,5 @@
 {
     "Fuentenueva/Cartuja/Aynadamar": {
-        "2026-04-10": [
-            {
-                "menu": "Menú estándar",
-                "categoria": "Cremas y sopas",
-                "nombre": "Crema De Zanahoria Y Tomate",
-                "alergenos": "Apio  Gluten  Lácteos"
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Primero",
-                "nombre": "Ensaladilla Salpicón De Marisco",
-                "alergenos": "Crustáceos  Huevos  Lácteos  Moluscos  Pescado  Soja  Sulfitos"
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Segundo",
-                "nombre": "Goulash Húngaro De Ternera",
-                "alergenos": "Gluten  Sulfitos"
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Acompañamiento",
-                "nombre": "Arroz pilaf (Guarnición",
-                "alergenos": "Apio  Lácteos"
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Postre",
-                "nombre": "Plátano",
-                "alergenos": ""
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Cremas y sopas",
-                "nombre": "Crema De Zanahoria Y Tomate",
-                "alergenos": "Apio  Gluten  Lácteos"
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Primero",
-                "nombre": "Ensaladilla De Frutas Desecadas Vegetariana",
-                "alergenos": "Huevos  Lácteos  Sulfitos"
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Segundo",
-                "nombre": "Goulash De Seitán",
-                "alergenos": "Gluten  Sulfitos"
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Acompañamiento",
-                "nombre": "Arroz pilaf (Guarnición",
-                "alergenos": "Apio  Lácteos"
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Postre",
-                "nombre": "Plátano",
-                "alergenos": ""
-            }
-        ],
-        "2026-04-11": [
-            {
-                "menu": "Menú estándar",
-                "categoria": "Cremas y sopas",
-                "nombre": "Salmorejo Cordobés",
-                "alergenos": "Gluten  Huevos  Sulfitos"
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Primero",
-                "nombre": "Pollo Con Ajos, Champiñones y Pimientos",
-                "alergenos": "Sulfitos"
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Segundo",
-                "nombre": "Croquetas De Morcilla Y Manzana",
-                "alergenos": "Frutos de cáscara (almendras)  Gluten  Lácteos"
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Postre",
-                "nombre": "Pudin Diplomático",
-                "alergenos": "Frutos de cáscara (trazas)  Gluten  Huevos  Lácteos  Sulfitos",
-                "nutricion": {
-                    "kcal": 235.0,
-                    "proteinas": 5.4,
-                    "grasas": 8.2,
-                    "carbohidratos": 35.0
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Primero",
-                "nombre": "Salmorejo Campero Vegetariano",
-                "alergenos": "Gluten  Huevos"
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Segundo",
-                "nombre": "Croquetas de zanahorias y espinacas",
-                "alergenos": "Frutos de cáscara (almendra)  Huevos  Lácteos"
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Acompañamiento",
-                "nombre": "Tajín de verduras",
-                "alergenos": "Sulfitos"
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Postre",
-                "nombre": "Pudin Diplomático",
-                "alergenos": "Frutos de cáscara (trazas)  Gluten  Huevos  Lácteos  Sulfitos",
-                "nutricion": {
-                    "kcal": 235.0,
-                    "proteinas": 5.4,
-                    "grasas": 8.2,
-                    "carbohidratos": 35.0
-                }
-            }
-        ],
-        "2026-04-13": [
-            {
-                "menu": "Menú estándar",
-                "categoria": "Primero",
-                "nombre": "Paella Murciana",
-                "alergenos": "Apio  Sulfitos"
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Segundo",
-                "nombre": "Bacalao al Pil-Pil",
-                "alergenos": "Gluten  Pescado"
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Acompañamiento",
-                "nombre": "Cebolla Danesa",
-                "alergenos": "Gluten  Lácteos"
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Postre",
-                "nombre": "Mandarinas",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 53.0,
-                    "proteinas": 0.8,
-                    "grasas": 0.3,
-                    "carbohidratos": 13.3
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Primero",
-                "nombre": "Paella Vegetariana",
-                "alergenos": "Apio"
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Segundo",
-                "nombre": "Salchichas Vegetales",
-                "alergenos": "Huevos  Lácteos  Soja  Sulfitos"
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Acompañamiento",
-                "nombre": "Cebolla Danesa",
-                "alergenos": "Gluten  Lácteos"
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Postre",
-                "nombre": "Mandarinas",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 53.0,
-                    "proteinas": 0.8,
-                    "grasas": 0.3,
-                    "carbohidratos": 13.3
-                }
-            }
-        ],
-        "2026-04-14": [
-            {
-                "menu": "Menú estándar",
-                "categoria": "Primero",
-                "nombre": "Ensalada De Alubias A La Cordobesa",
-                "alergenos": "Gluten  Pescado  Sulfitos"
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Segundo",
-                "nombre": "Pollo A La Vasca",
-                "alergenos": "Apio  Lácteos  Soja  Sulfitos"
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Acompañamiento",
-                "nombre": "Patatas A La Española",
-                "alergenos": "Sulfitos"
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Postre",
-                "nombre": "Piña",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 50.0,
-                    "proteinas": 0.5,
-                    "grasas": 0.1,
-                    "carbohidratos": 13.1
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Primero",
-                "nombre": "Ensalada De Alubias A La Cordobesa (vegetariana)",
-                "alergenos": "Gluten  Lácteos  Sulfitos"
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Segundo",
-                "nombre": "Aloo Tikki Con Chutney De Cebolla",
-                "alergenos": "Sulfitos"
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Acompañamiento",
-                "nombre": "Tomate Aliñado",
-                "alergenos": ""
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Postre",
-                "nombre": "Piña",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 50.0,
-                    "proteinas": 0.5,
-                    "grasas": 0.1,
-                    "carbohidratos": 13.1
-                }
-            }
-        ],
-        "2026-04-15": [
-            {
-                "menu": "Menú estándar",
-                "categoria": "Primero",
-                "nombre": "Macarrones A La Boloñesa",
-                "alergenos": "Gluten  Lácteos  Sulfitos"
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Segundo",
-                "nombre": "Fritura de Pescado",
-                "alergenos": "Gluten  Moluscos  Pescado  Sulfitos"
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Acompañamiento",
-                "nombre": "Ensalada Mixta",
-                "alergenos": "Soja  Sulfitos",
-                "nutricion": {
-                    "kcal": 15.0,
-                    "proteinas": 1.4,
-                    "grasas": 0.1,
-                    "carbohidratos": 2.9
-                }
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Postre",
-                "nombre": "Manzana",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 52.0,
-                    "proteinas": 0.3,
-                    "grasas": 0.2,
-                    "carbohidratos": 13.8
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Primero",
-                "nombre": "Macarrones A La Boloñesa De Soja Texturizada",
-                "alergenos": "Apio  Gluten  Lácteos  Soja  Sulfitos"
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Segundo",
-                "nombre": "Rollitos De Primavera Y Cuscús De Verdura Y Frutos Secos",
-                "alergenos": "Frutos de cáscara (almendras, nueces)  Gluten  Sésamo  Soja  Sulfitos"
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Acompañamiento",
-                "nombre": "Ensalada Mixta",
-                "alergenos": "Soja  Sulfitos",
-                "nutricion": {
-                    "kcal": 15.0,
-                    "proteinas": 1.4,
-                    "grasas": 0.1,
-                    "carbohidratos": 2.9
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Postre",
-                "nombre": "Manzana",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 52.0,
-                    "proteinas": 0.3,
-                    "grasas": 0.2,
-                    "carbohidratos": 13.8
-                }
-            }
-        ],
-        "2026-04-16": [
-            {
-                "menu": "Menú estándar",
-                "categoria": "Primero",
-                "nombre": "Ensalada César Crujiente",
-                "alergenos": "Frutos de cáscara (nueces)  Gluten  Huevos  Lácteos  Mostaza  Pescado"
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Segundo",
-                "nombre": "Lomo Asado Con Salsa De Quesos",
-                "alergenos": "Apio  Gluten  Lácteos  Sulfitos"
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Acompañamiento",
-                "nombre": "Arroz pilaf (Guarnición",
-                "alergenos": "Apio  Lácteos"
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Postre",
-                "nombre": "Pera",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 57.0,
-                    "proteinas": 0.4,
-                    "grasas": 0.1,
-                    "carbohidratos": 15.2
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Primero",
-                "nombre": "Ensalada Tropical 1",
-                "alergenos": ""
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Segundo",
-                "nombre": "Hamburguesa De Polenta Y Lentejas",
-                "alergenos": "Lácteos"
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Acompañamiento",
-                "nombre": "Arroz pilaf (Guarnición",
-                "alergenos": "Apio  Lácteos"
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Postre",
-                "nombre": "Pera",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 57.0,
-                    "proteinas": 0.4,
-                    "grasas": 0.1,
-                    "carbohidratos": 15.2
-                }
-            }
-        ],
         "2026-04-17": [
             {
                 "menu": "Menú estándar",
@@ -507,219 +123,181 @@
                 "nombre": "Helado",
                 "alergenos": "Lácteos"
             }
-        ]
-    },
-    "PTS": {
-        "2026-04-10": [
-            {
-                "menu": "Menú estándar",
-                "categoria": "Cremas y sopas",
-                "nombre": "Crema De Zanahoria Y Tomate (celiaco)",
-                "alergenos": "Apio  Lácteos  Sulfitos"
-            },
+        ],
+        "2026-04-20": [
             {
                 "menu": "Menú estándar",
                 "categoria": "Primero",
-                "nombre": "Ensaladilla Salpicón De Marisco",
-                "alergenos": "Crustáceos  Huevos  Lácteos  Moluscos  Pescado  Soja  Sulfitos"
+                "nombre": "Espaguetis Al Estilo Del Chef",
+                "alergenos": "Frutos de cáscara  Gluten  Lácteos  Mostaza  Soja  Sulfitos"
             },
             {
                 "menu": "Menú estándar",
                 "categoria": "Segundo",
-                "nombre": "Goulash Húngaro De Ternera (celiaco)",
+                "nombre": "Filete de perca a la Inglesa",
+                "alergenos": "Gluten  Huevos  Lácteos  Pescado  Sulfitos"
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Acompañamiento",
+                "nombre": "Ensalada Hortelana",
                 "alergenos": "Sulfitos"
             },
             {
                 "menu": "Menú estándar",
-                "categoria": "Acompañamiento",
-                "nombre": "Arroz pilaf (Guarnición",
-                "alergenos": "Apio  Lácteos"
-            },
-            {
-                "menu": "Menú estándar",
                 "categoria": "Postre",
-                "nombre": "Plátano",
-                "alergenos": ""
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Cremas y sopas",
-                "nombre": "Crema De Zanahoria Y Tomate (celiaco)",
-                "alergenos": "Apio  Lácteos  Sulfitos"
+                "nombre": "Mandarinas",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 53.0,
+                    "proteinas": 0.8,
+                    "grasas": 0.3,
+                    "carbohidratos": 13.3
+                }
             },
             {
                 "menu": "Menú ovolactovegetariano",
                 "categoria": "Primero",
-                "nombre": "Ensaladilla De Frutas Desecadas Vegetariana",
-                "alergenos": "Huevos  Lácteos  Sulfitos"
+                "nombre": "Espaguetis Con Boronía (vegetariano)",
+                "alergenos": "Apio  Gluten  Huevos  Sulfitos"
             },
             {
                 "menu": "Menú ovolactovegetariano",
                 "categoria": "Segundo",
-                "nombre": "Goulash de Tofu",
-                "alergenos": "Soja  Sulfitos"
+                "nombre": "San Jacobo De Calabacín",
+                "alergenos": "Gluten  Huevos  Lácteos  Soja",
+                "nutricion": {
+                    "kcal": 232.0,
+                    "proteinas": 8.5,
+                    "grasas": 14.8,
+                    "carbohidratos": 16.5
+                }
             },
             {
                 "menu": "Menú ovolactovegetariano",
                 "categoria": "Acompañamiento",
-                "nombre": "Arroz pilaf (Guarnición",
-                "alergenos": "Apio  Lácteos"
+                "nombre": "Ensalada Hortelana",
+                "alergenos": "Sulfitos"
             },
             {
                 "menu": "Menú ovolactovegetariano",
                 "categoria": "Postre",
-                "nombre": "Plátano",
-                "alergenos": ""
+                "nombre": "Mandarinas",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 53.0,
+                    "proteinas": 0.8,
+                    "grasas": 0.3,
+                    "carbohidratos": 13.3
+                }
             }
         ],
-        "2026-04-13": [
+        "2026-04-21": [
             {
                 "menu": "Menú estándar",
                 "categoria": "Primero",
-                "nombre": "Paella Murciana",
-                "alergenos": "Apio  Sulfitos"
+                "nombre": "Potaje De Garbanzos Con Choco",
+                "alergenos": "Moluscos"
             },
             {
                 "menu": "Menú estándar",
                 "categoria": "Segundo",
-                "nombre": "Bacalao Al Pil-Pil",
+                "nombre": "Plato Alpujarreño",
+                "alergenos": "Gluten*  Huevos"
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Postre",
+                "nombre": "Yogur",
+                "alergenos": "Lácteos"
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Primero",
+                "nombre": "Garbanzos Con Acelgas (vegetariano)",
+                "alergenos": "Apio  Frutos de cáscara (almendras)  Gluten  Huevos"
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Segundo",
+                "nombre": "Plato Alpujarreño Vegetariano",
+                "alergenos": "Huevos  Soja"
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Postre",
+                "nombre": "Yogur",
+                "alergenos": "Lácteos"
+            }
+        ],
+        "2026-04-22": [
+            {
+                "menu": "Menú estándar",
+                "categoria": "Primero",
+                "nombre": "Patatas En Ajo Pollo",
+                "alergenos": "Frutos de cáscara (almendra)  Gluten  Sulfitos"
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Segundo",
+                "nombre": "Aguja A La Parrilla",
                 "alergenos": "Pescado"
             },
             {
                 "menu": "Menú estándar",
                 "categoria": "Acompañamiento",
-                "nombre": "Judías Verdes Salteadas Con Jamón",
-                "alergenos": "Sulfitos"
+                "nombre": "Coliflor Gratinada",
+                "alergenos": "Gluten  Lácteos"
             },
             {
                 "menu": "Menú estándar",
                 "categoria": "Postre",
-                "nombre": "Mandarinas",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 53.0,
-                    "proteinas": 0.8,
-                    "grasas": 0.3,
-                    "carbohidratos": 13.3
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Primero",
-                "nombre": "Paella Vegetariana 2",
-                "alergenos": "Apio  Soja  Sulfitos"
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Segundo",
-                "nombre": "Salchichas Vegetales",
-                "alergenos": "Huevos  Lácteos  Soja  Sulfitos"
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Acompañamiento",
-                "nombre": "Judías Verdes Con Salsa Vinagreta",
-                "alergenos": "Huevos  Sulfitos"
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Postre",
-                "nombre": "Mandarinas",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 53.0,
-                    "proteinas": 0.8,
-                    "grasas": 0.3,
-                    "carbohidratos": 13.3
-                }
-            }
-        ],
-        "2026-04-14": [
-            {
-                "menu": "Menú estándar",
-                "categoria": "Primero",
-                "nombre": "Ensalada De Alubias A La Cordobesa",
-                "alergenos": "Pescado  Sulfitos"
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Segundo",
-                "nombre": "Pollo A La Vasca",
-                "alergenos": "Apio  Lácteos  Soja  Sulfitos"
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Acompañamiento",
-                "nombre": "Patatas A La Española",
-                "alergenos": "Sulfitos"
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Postre",
-                "nombre": "Piña",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 50.0,
-                    "proteinas": 0.5,
-                    "grasas": 0.1,
-                    "carbohidratos": 13.1
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Primero",
-                "nombre": "Ensalada De Alubias A La Cordobesa (vegetariana)",
-                "alergenos": "Sulfitos"
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Segundo",
-                "nombre": "Aloo Tikki Con Chutney De Cebolla",
-                "alergenos": "Sulfitos"
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Acompañamiento",
-                "nombre": "Tomate Aliñado",
+                "nombre": "Fresas",
                 "alergenos": ""
             },
             {
                 "menu": "Menú ovolactovegetariano",
+                "categoria": "Primero",
+                "nombre": "Patatas En Ajo Pollo Vegetarianas",
+                "alergenos": "Apio  Frutos de cáscara (almendras)  Gluten"
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Segundo",
+                "nombre": "Goulash De Seitán",
+                "alergenos": "Gluten  Sulfitos"
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Acompañamiento",
+                "nombre": "Coliflor Gratinada",
+                "alergenos": "Gluten  Lácteos"
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
                 "categoria": "Postre",
-                "nombre": "Piña",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 50.0,
-                    "proteinas": 0.5,
-                    "grasas": 0.1,
-                    "carbohidratos": 13.1
-                }
+                "nombre": "Fresas",
+                "alergenos": ""
             }
         ],
-        "2026-04-15": [
+        "2026-04-23": [
             {
                 "menu": "Menú estándar",
                 "categoria": "Primero",
-                "nombre": "Macarrones A La Boloñesa",
-                "alergenos": "Lácteos  Sulfitos"
+                "nombre": "Arroz a banda",
+                "alergenos": "Crustáceos  Lácteos  Moluscos  Pescado  Sulfitos"
             },
             {
                 "menu": "Menú estándar",
                 "categoria": "Segundo",
-                "nombre": "Filete De Perca Al Limón",
-                "alergenos": "Pescado  Sulfitos"
+                "nombre": "Pechuga De Pollo A La Parrilla",
+                "alergenos": ""
             },
             {
                 "menu": "Menú estándar",
                 "categoria": "Acompañamiento",
-                "nombre": "Ensalada Mixta",
-                "alergenos": "Soja  Sulfitos",
-                "nutricion": {
-                    "kcal": 15.0,
-                    "proteinas": 1.4,
-                    "grasas": 0.1,
-                    "carbohidratos": 2.9
-                }
+                "nombre": "Fritura De Hortalizas",
+                "alergenos": "Gluten"
             },
             {
                 "menu": "Menú estándar",
@@ -736,102 +314,124 @@
             {
                 "menu": "Menú ovolactovegetariano",
                 "categoria": "Primero",
-                "nombre": "Macarrones A La Boloñesa De Soja Texturizada",
-                "alergenos": "Apio  Lácteos  Soja  Sulfitos"
+                "nombre": "Arroz A La Cortijera (Vegetariano)",
+                "alergenos": "Apio"
             },
             {
                 "menu": "Menú ovolactovegetariano",
                 "categoria": "Segundo",
-                "nombre": "Tortilla De Patatas y Pimientos",
-                "alergenos": "Huevos"
+                "nombre": "Queso Rebozado En Crocante",
+                "alergenos": "Frutos de cáscara (almendra)  Gluten  Huevos  Lácteos"
             },
             {
                 "menu": "Menú ovolactovegetariano",
                 "categoria": "Acompañamiento",
-                "nombre": "Ensalada Mixta",
-                "alergenos": "Soja  Sulfitos",
-                "nutricion": {
-                    "kcal": 15.0,
-                    "proteinas": 1.4,
-                    "grasas": 0.1,
-                    "carbohidratos": 2.9
-                }
+                "nombre": "Fritura De Hortalizas",
+                "alergenos": "Gluten"
             },
             {
                 "menu": "Menú ovolactovegetariano",
                 "categoria": "Postre",
-                "nombre": "Manzana",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 52.0,
-                    "proteinas": 0.3,
-                    "grasas": 0.2,
-                    "carbohidratos": 13.8
-                }
+                "nombre": "Fresas",
+                "alergenos": ""
             }
         ],
-        "2026-04-16": [
+        "2026-04-24": [
             {
                 "menu": "Menú estándar",
                 "categoria": "Primero",
-                "nombre": "Ensalada De Ave 3",
-                "alergenos": "Frutos de cáscara  Huevos  Lácteos  Soja  Sulfitos"
+                "nombre": "Cazuela De Fideos Con Costillas Adobadas",
+                "alergenos": "Gluten  Sulfitos"
             },
             {
                 "menu": "Menú estándar",
                 "categoria": "Segundo",
-                "nombre": "Lomo Asado Con Salsa De Quesos",
-                "alergenos": "Apio  Lácteos  Sulfitos"
-            },
-            {
-                "menu": "Menú estándar",
-                "categoria": "Acompañamiento",
-                "nombre": "Arroz pilaf (Guarnición",
-                "alergenos": "Apio  Lácteos"
+                "nombre": "Empanado de Jamón York Con Pisto Mediterraneo y Huevo Frito",
+                "alergenos": "Altramuces  Gluten  Huevos  Lácteos  Soja"
             },
             {
                 "menu": "Menú estándar",
                 "categoria": "Postre",
-                "nombre": "Pera",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 57.0,
-                    "proteinas": 0.4,
-                    "grasas": 0.1,
-                    "carbohidratos": 15.2
-                }
-            },
-            {
-                "menu": "Menú ovolactovegetariano",
-                "categoria": "Primero",
-                "nombre": "Ensalada Tropical 1",
+                "nombre": "Banana",
                 "alergenos": ""
             },
             {
                 "menu": "Menú ovolactovegetariano",
-                "categoria": "Segundo",
-                "nombre": "Hamburguesa De Espinacas Y Tofu",
-                "alergenos": "Frutos de cáscara (almendras)  Huevos  Soja"
+                "categoria": "Primero",
+                "nombre": "Cazuela De Fideos Y Verduras",
+                "alergenos": "Apio  Gluten  Soja  Sulfitos"
             },
             {
                 "menu": "Menú ovolactovegetariano",
-                "categoria": "Acompañamiento",
-                "nombre": "Arroz pilaf (Guarnición",
-                "alergenos": "Apio  Lácteos"
+                "categoria": "Segundo",
+                "nombre": "Escalope de Seitán Con Pisto Y Huevo Frito",
+                "alergenos": "Gluten  Huevos  Lácteos  Soja"
             },
             {
                 "menu": "Menú ovolactovegetariano",
                 "categoria": "Postre",
-                "nombre": "Pera",
-                "alergenos": "",
-                "nutricion": {
-                    "kcal": 57.0,
-                    "proteinas": 0.4,
-                    "grasas": 0.1,
-                    "carbohidratos": 15.2
-                }
+                "nombre": "Banana",
+                "alergenos": ""
             }
         ],
+        "2026-04-25": [
+            {
+                "menu": "Menú estándar",
+                "categoria": "Primero",
+                "nombre": "Tortilla Española Sobre Porra Antequera",
+                "alergenos": "Gluten  Huevos"
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Segundo",
+                "nombre": "Hamburguesa Mixta Encebollada",
+                "alergenos": "Huevos  Mostaza  Sulfitos"
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Acompañamiento",
+                "nombre": "Patatas Ali-Oli 1",
+                "alergenos": "Huevos  Lácteos"
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Postre",
+                "nombre": "Leche frita",
+                "alergenos": "Gluten  Huevos  Lácteos"
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Primero",
+                "nombre": "Tortilla Española Sobre Porra Antequera",
+                "alergenos": "Gluten  Huevos"
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Segundo",
+                "nombre": "Hamburguesa De Alubías Rojas",
+                "alergenos": "Frutos de cáscara (pipas de girasol)  Gluten  Huevos  Sésamo",
+                "nutricion": {
+                    "kcal": 192.0,
+                    "proteinas": 10.5,
+                    "grasas": 7.4,
+                    "carbohidratos": 20.8
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Acompañamiento",
+                "nombre": "Patatas Ali-Oli 1",
+                "alergenos": "Huevos  Lácteos"
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Postre",
+                "nombre": "Leche frita",
+                "alergenos": "Gluten  Huevos  Lácteos"
+            }
+        ]
+    },
+    "PTS": {
         "2026-04-17": [
             {
                 "menu": "Menú estándar",
@@ -874,6 +474,268 @@
                 "categoria": "Acompañamiento",
                 "nombre": "Menestra 21",
                 "alergenos": ""
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Postre",
+                "nombre": "Banana",
+                "alergenos": ""
+            }
+        ],
+        "2026-04-20": [
+            {
+                "menu": "Menú estándar",
+                "categoria": "Primero",
+                "nombre": "Espaguetis Al Estilo Del Chef",
+                "alergenos": "Frutos de cáscara  Lácteos  Soja  Sulfitos"
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Segundo",
+                "nombre": "Merluza A La Parrilla",
+                "alergenos": "Pescado"
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Acompañamiento",
+                "nombre": "Ensalada Hortelana",
+                "alergenos": "Sulfitos"
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Postre",
+                "nombre": "Mandarinas",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 53.0,
+                    "proteinas": 0.8,
+                    "grasas": 0.3,
+                    "carbohidratos": 13.3
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Primero",
+                "nombre": "Espaguetis Con Boronía (vegetariano)",
+                "alergenos": "Apio  Huevos  Sulfitos"
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Segundo",
+                "nombre": "Berenjenas En Escabeche",
+                "alergenos": "Sulfitos"
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Acompañamiento",
+                "nombre": "Ensalada Hortelana",
+                "alergenos": "Sulfitos"
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Postre",
+                "nombre": "Mandarinas",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 53.0,
+                    "proteinas": 0.8,
+                    "grasas": 0.3,
+                    "carbohidratos": 13.3
+                }
+            }
+        ],
+        "2026-04-21": [
+            {
+                "menu": "Menú estándar",
+                "categoria": "Primero",
+                "nombre": "Potaje De Garbanzos Con Choco",
+                "alergenos": "Moluscos"
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Segundo",
+                "nombre": "Plato Alpujarreño",
+                "alergenos": "Huevos"
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Postre",
+                "nombre": "Yogur",
+                "alergenos": "Lácteos"
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Primero",
+                "nombre": "Garbanzos Con Acelgas (vegetariano)",
+                "alergenos": "Apio  Frutos de cáscara  Huevos"
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Segundo",
+                "nombre": "Plato Alpujarreño Vegetariano",
+                "alergenos": "Huevos  Soja"
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Postre",
+                "nombre": "Yogur",
+                "alergenos": "Lácteos"
+            }
+        ],
+        "2026-04-22": [
+            {
+                "menu": "Menú estándar",
+                "categoria": "Primero",
+                "nombre": "Patatas En Ajo Pollo",
+                "alergenos": "Frutos de cáscara (almendras)  Sulfitos"
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Segundo",
+                "nombre": "Aguja A La Parrilla",
+                "alergenos": "Pescado"
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Acompañamiento",
+                "nombre": "Coliflor Gratinada",
+                "alergenos": "Lácteos"
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Postre",
+                "nombre": "Fresas",
+                "alergenos": ""
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Primero",
+                "nombre": "Patatas En Ajo Pollo Vegetarianas",
+                "alergenos": "Apio  Frutos de cáscara (almendra)  Sulfitos"
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Segundo",
+                "nombre": "Goulash de Tofu",
+                "alergenos": "Soja  Sulfitos"
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Acompañamiento",
+                "nombre": "Coliflor Gratinada",
+                "alergenos": "Lácteos"
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Postre",
+                "nombre": "Fresas",
+                "alergenos": ""
+            }
+        ],
+        "2026-04-23": [
+            {
+                "menu": "Menú estándar",
+                "categoria": "Primero",
+                "nombre": "Arroz a banda",
+                "alergenos": "Crustáceos  Lácteos  Moluscos  Pescado  Sulfitos"
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Segundo",
+                "nombre": "Pechuga De Pollo A La Parrilla",
+                "alergenos": ""
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Acompañamiento",
+                "nombre": "Menestra De Verduras 4",
+                "alergenos": "Sulfitos"
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Postre",
+                "nombre": "Manzana",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 52.0,
+                    "proteinas": 0.3,
+                    "grasas": 0.2,
+                    "carbohidratos": 13.8
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Primero",
+                "nombre": "Arroz A La Cortijera (Vegetariano)",
+                "alergenos": "Apio"
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Segundo",
+                "nombre": "Hamburguesa De Alubías Rojas",
+                "alergenos": "Frutos de cáscara (pipas de girasol)  Gluten  Huevos  Sésamo",
+                "nutricion": {
+                    "kcal": 192.0,
+                    "proteinas": 10.5,
+                    "grasas": 7.4,
+                    "carbohidratos": 20.8
+                }
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Acompañamiento",
+                "nombre": "Menestra De Verduras 4",
+                "alergenos": "Sulfitos"
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Postre",
+                "nombre": "Manzana",
+                "alergenos": "",
+                "nutricion": {
+                    "kcal": 52.0,
+                    "proteinas": 0.3,
+                    "grasas": 0.2,
+                    "carbohidratos": 13.8
+                }
+            }
+        ],
+        "2026-04-24": [
+            {
+                "menu": "Menú estándar",
+                "categoria": "Primero",
+                "nombre": "Cazuela De Fideos Con Costillas Adobadas",
+                "alergenos": "Sulfitos"
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Segundo",
+                "nombre": "Empanado de Jamón York Con Pisto Mediterraneo y Huevo Frito",
+                "alergenos": "Altramuces  Huevos  Lácteos  Soja"
+            },
+            {
+                "menu": "Menú estándar",
+                "categoria": "Postre",
+                "nombre": "Banana",
+                "alergenos": ""
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Primero",
+                "nombre": "Cazuela De Fideos Y Verduras",
+                "alergenos": "Apio  Soja  Sulfitos"
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Segundo",
+                "nombre": "Tortilla De Hortalizas",
+                "alergenos": "Huevos  Lácteos  Sulfitos"
+            },
+            {
+                "menu": "Menú ovolactovegetariano",
+                "categoria": "Acompañamiento",
+                "nombre": "Ensalada Mixta 4",
+                "alergenos": "Lácteos  Sulfitos"
             },
             {
                 "menu": "Menú ovolactovegetariano",
